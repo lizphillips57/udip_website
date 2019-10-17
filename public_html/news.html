@@ -34,7 +34,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<!--dynamic functionality-->
-		<link rel="stylesheet" href="index-test-2.css">
+		<link rel="stylesheet" href="index.css">
 		<!-- Bootstrap core JavaScript================================================== -->
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -49,7 +49,7 @@
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
 							<span class="navbar-toggler-icon"></span>
 						</button>
-					<a class="navbar-brand mr-0" href="index-test.html">
+					<a class="navbar-brand mr-0" href="index.html">
 						<img src="images/udip.png" alt="UDIP logo" style="height:35px;width:35px;">
 						UDIP
 					</a>
@@ -59,10 +59,10 @@
 								<a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="events_test.html">Events</a>
+								<a class="nav-link" href="events.html">Events</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="news_test.html">News</a>
+								<a class="nav-link" href="news.html">News</a>
 							</li>
 							<li class="nav-item dropdown">
 								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -111,7 +111,7 @@
 									</ul>
 								</li>
 							<li class="nav-item">
-								<a class="nav-link" href="contact-test.html">Contact Us</a>
+								<a class="nav-link" href="contact.html">Contact Us</a>
 							</li>
 						</ul>
 						<span class="nav navbar-nav order-1 order-md-last">
@@ -124,11 +124,70 @@
 						</ul>
 				 </div>
 				</nav>
-		<!--====== BODY ======-->
-		<div>
-			<h1>ABOUT</h1>
-			<p>content</p>
+		<!--==== CAROUSEL====-->
+		<div id="move" class="carousel slide" data-ride="carousel">
+		  <!-- Indicators -->
+		  <ul class="carousel-indicators">
+		    <li data-target="#move" data-slide-to="0" class="active"></li>
+		    <li data-target="#move" data-slide-to="1"></li>
+		    <li data-target="#move" data-slide-to="2"></li>
+		  </ul>
+
+		  <!-- The slideshow -->
+		  <div class="carousel-inner">
+		    <div class="carousel-item active">
+		      <img src="images/UC-Santa-Barbara-Henley-Gate-Hero-700.jpg" style="width:100%;height:35vw;">
+					<div class="carousel-caption">
+		  			<h3>News</h3>
+		  			<p>News description</p>
+					</div>
+		    </div>
+		    <div class="carousel-item">
+		      <img src="images/UC-Santa-Barbara-Henley-Gate-Hero-700.jpg" style="width:100%;height:35vw;">
+					<div class="carousel-caption">
+						<h3>News</h3>
+						<p>News description</p>
+					</div>
+		    </div>
+		    <div class="carousel-item">
+		      <img src="images/UC-Santa-Barbara-Henley-Gate-Hero-700.jpg" style="width:100%;height:35vw;">
+					<div class="carousel-caption">
+						<h3>News</h3>
+						<p>News description</p>
+					</div>
+		    </div>
+		  </div>
+
+		  <!-- Left and right controls -->
+		  <a class="carousel-control-prev" href="#move" data-slide="prev">
+		    <span class="carousel-control-prev-icon"></span>
+		  </a>
+		  <a class="carousel-control-next" href="#move" data-slide="next">
+		    <span class="carousel-control-next-icon"></span>
+		  </a>
+
 		</div>
+		<main id="content-main" class="flex-grow-1 p-5">
+			<hr class="featurette-divider">
+			<div class="col-md-7">
+				<h1 class="heading">News</h1>
+				<p class="lead">Fall 2019</p>
+			</div>
+	  <!--DIVIDER-->
+    	<div class="row">
+      	<div class="col-md-4 themed-grid-col">
+      		<img src="images/textbook_tsp.jpg" alt="Textbook Drive UCSB Physics" width="100%"><p><br>We have an ongoing text book drive to populate the Physics Study Room (PSR) with current books in use at UCSB in the physics department. If you do not see your text book on the shelf, click <a href="textbookform.html">here</a> to add it, or use the sign up sheet next to the shelf and write it down so we can get it!<br></p>
+      	</div>
+        <div class="col-md-4 themed-grid-col">
+        	<img src="images/impostorsyndrome.jpg" alt="Imposter Syndrom Workshop" width="100%"><p><br>Ever feel like you don't belong, in physics or at UC Santa Barbara? You're not alone! This psychological pattern is known as "Imposter Syndrome" and it is more common than you might think! Workshops are ongoing with how to deal with this challenge. Stay tuned for the dates of the next workshop!<br></p>
+        </div>
+        <div class="col-md-4 themed-grid-col">
+        	<img  src="images/shirts.jpg" alt="UCSB Physics Merchandise" width="100%">
+        	<p><br><br><br><br><br>Want a University of California, Santa Barbara "Physics" shirt? Maybe a hoodie? Well, we got you covered! Look for emails detailing our tabling times for these, or click the button below to get yours today!<br><br><br>
+    			<a href="mailto:udip@physics.ucsb.edu" target="_blank" class="btn btn-sm btn-primary">Get yours now!</a><br></p>
+    		</div>
+  		</div>
+		</main>
 		<!--===== FOOTER =====-->
 		<footer class="footer">
 			<div id="main" class="container clear-top">

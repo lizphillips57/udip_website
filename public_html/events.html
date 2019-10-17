@@ -34,7 +34,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<!--dynamic functionality-->
-		<link rel="stylesheet" href="index-test-2.css">
+		<link rel="stylesheet" href="index.css">
 		<!-- Bootstrap core JavaScript================================================== -->
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -49,20 +49,20 @@
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
 							<span class="navbar-toggler-icon"></span>
 						</button>
-					<a class="navbar-brand mr-0" href="index-test.html">
+					<a class="navbar-brand mr-0" href="index.html">
 						<img src="images/udip.png" alt="UDIP logo" style="height:35px;width:35px;">
 						UDIP
 					</a>
 					<div class="collapse navbar-collapse justify-content-between align-items-center w-100" id="collapsibleNavbar" >
 						<ul class="navbar-nav mx-auto text-center">
 							<li class="nav-item active">
-								<a class="nav-link" href="index-test.html">Home<span class="sr-only">(current)</span></a>
+								<a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="events_test.html">Events</a>
+								<a class="nav-link" href="events.html">Events</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="news_test.html">News</a>
+								<a class="nav-link" href="news.html">News</a>
 							</li>
 							<li class="nav-item dropdown">
 								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -111,7 +111,7 @@
 									</ul>
 								</li>
 							<li class="nav-item">
-								<a class="nav-link" href="contact-test.html">Contact Us</a>
+								<a class="nav-link" href="contact.html">Contact Us</a>
 							</li>
 						</ul>
 						<span class="nav navbar-nav order-1 order-md-last">
@@ -124,22 +124,83 @@
 						</ul>
 				 </div>
 				</nav>
-		<!--===== CONTENT ====-->
-		<main id="content-main" class="flex-grow-1 p-5 container-fluid px-0">
-			<hr class="featurette-divider">
-					<div class="col-md-7">
-						<h1 class="heading">News</h1>
-						<p class="lead">Fall 2019</p>
+		<!--====== BODY ======-->
+
+		<div id="move" class="carousel slide" data-ride="carousel">
+		  <!-- Indicators -->
+		  <ul class="carousel-indicators">
+		    <li data-target="#move" data-slide-to="0" class="active"></li>
+		    <li data-target="#move" data-slide-to="1"></li>
+		    <li data-target="#move" data-slide-to="2"></li>
+		  </ul>
+
+		  <!-- The slideshow -->
+		  <div class="carousel-inner">
+		    <div class="carousel-item active">
+		      <img src="images/UC-Santa-Barbara-Henley-Gate-Hero-700.jpg" style="width:100%;height:35vw;">
+					<div class="carousel-caption">
+		  			<h3>Event</h3>
+		  			<p>Events description</p>
 					</div>
-      	<div class="row">
-        	<div class="col-md-6 themed-grid-col" style="background-color: #DE2D2D;height:60vw">
-						<h1 style="position: absolute; color:#fff">UDIP's</h1>
+		    </div>
+		    <div class="carousel-item">
+		      <img src="images/UC-Santa-Barbara-Henley-Gate-Hero-700.jpg" style="width:100%;height:35vw;">
+					<div class="carousel-caption">
+						<h3>Event</h3>
+						<p>Events description</p>
 					</div>
-	        <div class="col-md-6 themed-grid-col" style="background-color: #6600ff;height:60vw">
-						<h1 style="position: absolute; color:#fff; padding-left:">UCSB's</h1>
-	        </div>
-    		</div>
-		</main>
+		    </div>
+		    <div class="carousel-item">
+		      <img src="images/UC-Santa-Barbara-Henley-Gate-Hero-700.jpg" style="width:100%;height:35vw;">
+					<div class="carousel-caption">
+						<h3>Event</h3>
+						<p>Events description</p>
+					</div>
+		    </div>
+		  </div>
+
+		  <!-- Left and right controls -->
+		  <a class="carousel-control-prev" href="#move" data-slide="prev">
+		    <span class="carousel-control-prev-icon"></span>
+		  </a>
+		  <a class="carousel-control-next" href="#move" data-slide="next">
+		    <span class="carousel-control-next-icon"></span>
+		  </a>
+
+		</div>
+		<main id="content-main" class="flex-grow-1 p-5">
+			<div class="container marketing">
+				<hr class="featurette-divider">
+					<div class="row featurette">
+						<div class="col-md-7">
+							<h1 class="heading">Events</h1>
+							<p class="lead">Fall 2019</p>
+						</div>
+					</div>
+				<!--DIVIDER-->
+				<h2 class="mt-4"></h2>
+				<p><!--Text--></p>
+				<div class="row">
+					<div class="col-md-4 themed-grid-col">
+						<img class="news1-image" src="images\PHS_Spring2019.png" alt="phs" width="100%">
+						<p><br><strong>Mondays, April 22nd - June 3rd<br>6:00pm - 7:30pm<br></strong>
+						<br>Develop an efficient coding workflow that prepares you for physics research, graduate school, or industry. In six 90-minute sessions, the PHS will teach productive programming practices in an informal setting, and produce a streamlined computing environment for file system navigation (bash), text editing (vim), numerical simulations (python), and report typesetting (LaTeX). All operating systems welcome (if using Windows 10, install Windows Subsystem for Linux before the meeting). All physics undergraduates welcome, especially freshmen/sophomore students that want to learn computing tools relevant for research.<br><br>Want a sneak peek of material, miss a week's lesson, or want to follow along on your own? All PHS guides are self-contained and freely available at <a href="https://github.com/erijones/phs">github.com/erijones/phs.</a><br><br>Questions?
+						<a href="ewj@physics.ucsb.edu" target="_blank" class="btn btn-sm btn-primary">Email now!</a><br></p>
+					</div>
+					<div class="col-md-4 themed-grid-col">
+						<img class="news1-image" src="images/udip_astro_s19.png" alt="udipwip" width="100%">
+						<p><br><br><br><strong>Friday May 31st, 8:00-10:00 PM</strong><br><br><br>Come join UDIP and oSTEM for a night under the stars! Astronomy Night will be held Friday May 31st, from 8:00-10:00 pm. We will be using the Physics Department's Celestron NexStar-11 and Super C8 Plus telescopes to observe the sky. There will be grilled cheeses and hot chocolate to look forward to! It will be cold, so dress warm!
+						We will meet at the Broida entrance/lobby area and head up to the roof around 8:00pm.  If you arrive after 8:00pm, head up to the very top of the mountainside stairwell to the roof entrance, and someone will let you in. All are welcome!<br></p>
+					</div>
+					<div class="col-md-4 themed-grid-col">
+						<img class="news1-image" src="images\gradmixers19.png" alt="udip grad mixer" width="100%">
+						<p><br><strong>Wednesday, May 22nd 6:00-8:00 PM</strong><br><br>Do you have plans for after college? Questions about graduate school? Going into Industry? Totally lost? Want to discuss these questions in an informal, friendly setting with UCSB graduate students who have been through it all? Just want to get to know some other grads or undergrads? Then come to the UDIP grad-undergrad student mixer!
+						On Wednesday, May 22 in in front of Broida at the picnic tables, from 6:00 to 8:00 pm, there will be a mixer for graduate and undergraduate students. This is an excellent opportunity to meet and mingle with the brightest minds UCSB has to offer! There will be activities and Free Food!</p>
+						<br><br>
+					</div>
+				</div> <!-- /container -->
+				<iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=NWZmZms0N2F1cGZ1NzYyZm8zNXNlMHFhanNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=djlpY3N2YmRwbXRmNG9qYmdoMG1mNGhsMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;color=%23F4511E&amp;title=UDIP%20Events" style="border-width:0" width="1100" height="600" frameborder="0" scrolling="no"></iframe>
+			</main>
 		<!--===== FOOTER =====-->
 		<footer class="footer">
 			<div id="main" class="container clear-top">
@@ -149,5 +210,6 @@
 					<a href="webmaster.html" target="_blank" class="btn btn-sm btn-primary">Contact</a></p>
 			</div>
 		</footer>
+
 	</body>
 </html>

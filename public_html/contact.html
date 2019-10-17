@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--This is a lot of work to be doing for free :/-->
-  <!--===== HEADER =====-->
+
+<!--===== HEADER =====-->
   <head>
     <!-- Main Header -->
     <meta charset="UTF-8">
@@ -34,34 +34,35 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <!--dynamic functionality-->
-    <link rel="stylesheet" href="index-test-2.css">
+    <link rel="stylesheet" href="index.css">
     <!-- Bootstrap core JavaScript================================================== -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </head>
-  <body style="background-color: #343B3F;">
+  <body>
+
     <!--===== NAVBAR =====-->
     <nav class="navbar-wrapper">
       <div>
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+        <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
               <span class="navbar-toggler-icon"></span>
             </button>
-          <a class="navbar-brand mr-0" href="index-test.html">
+          <a class="navbar-brand mr-0" href="index.html">
             <img src="images/udip.png" alt="UDIP logo" style="height:35px;width:35px;">
             UDIP
           </a>
           <div class="collapse navbar-collapse justify-content-between align-items-center w-100" id="collapsibleNavbar" >
             <ul class="navbar-nav mx-auto text-center">
               <li class="nav-item active">
-                <a class="nav-link" href="index-test.html">Home<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="events_test.html">Events</a>
+                <a class="nav-link" href="events.html">Events</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="news_test.html">News</a>
+                <a class="nav-link" href="news.html">News</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -84,7 +85,7 @@
                       <li class="dropdown-submenu">
                         <a  class="dropdown-item" tabindex="-1" href="#">Forms</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" tabindex="-1" href="anonymous-tip-line.html" target="_blank">Climate Tip Line</a></li>
+                          <li><a class="dropdown-item" tabindex="-1" href="contact-sheet.html" target="_blank">Climate Tip Line</a></li>
                           <li><a class="dropdown-item" tabindex="-1" href="textbookform.html" target="_blank">PSR Textbooks</a></li>
                           <li><a class="dropdown-item" tabindex="-1" href="#" target="_blank">(Suggestions)</a></li>
                         </ul>
@@ -110,11 +111,11 @@
                   </ul>
                 </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact-test.html">Contact Us</a>
+                <a class="nav-link" href="contact.html">Contact Us</a>
               </li>
             </ul>
             <span class="nav navbar-nav order-1 order-md-last">
-            <li><a href="http://www.physics.ucsb.edu" style="color:#DADADA" target="_blank">
+            <li><a href="http://www.physics.ucsb.edu" style="color:#000" target="_blank">
               <img src="images/logo.png" height="20" alt="UCSB Physics" style="padding-right:1%">UCSB Physics</a></li>
             </span>
             <ul class="nav navbar-nav flex-row justify-content-center flex-nowrap">
@@ -123,89 +124,103 @@
             </ul>
          </div>
         </nav>
-    <!--====== BODY ======-->
-    <!--UDIP div-->
-    <div>
-      <a href="index-test.html">
-        <div class="content-banner container-fluid px-0">
-          <img src="images/posterudipwide.jpg" alt="Undergraduate Diversity and Inclusion in Physics, UCSB" width="100%" style="opacity: 0.5; height: 45vw;">
-          <div>
-            <h1 class="content-div">
-              UNDERGRADUATE DIVERSITY AND INCLUSION IN PHYSICS
-            </h1>
-            <div class="overlay">
-              <div class="text">
-                UDIP is a organisation of clubs that collectively aim to improve the lives of the students in the Physics programs at UCSB.
-              </div>
-            </div>
-          </div>
-        </div>
-      </a>
-      <a href="news_test.html">
-        <div class="content-banner container-fluid px-0" style="background-color:#FF0066; height:45vw;width:100%;">
-          <div>
-            <h1 class="content-div">
-              NEWS
-            </h1>
-            <div class="overlay">
-              <div class="text">
-                Check out what's new at UDIP and UCSB physics
-              </div>
-            </div>
-          </div>
-        </div>
-      </a>
-      <a href="index-test.html">
-        <div class="content-banner container-fluid px-0" style="background-color:#FF6666; height:45vw;width:100%;">
-          <div>
-            <h1 class="content-div">
-              RESOURCES
-            </h1>
-            <div class="overlay">
-              <div class="text">
-                All the help you need in one place
-              </div>
-            </div>
-          </div>
-        </div>
-      </a>
-      <a href="events-test.html">
-        <div class="content-banner container-fluid px-0" style="background-color:#FFCC66; height:45vw;width:100%;">
-          <div>
-            <h1 class="content-div">
-              EVENTS
-            </h1>
-            <div class="overlay">
-              <div class="text">
-                Fun times (and good food) at UCSB physics events, find out what's next!
-              </div>
-            </div>
-          </div>
-        </div>
-      </a>
-      <a href="index-test.html">
-        <div class="content-banner container-fluid px-0" style="background-color:#00CC66; height:45vw;width:100%;">
-          <div>
-            <h1 class="content-div">
-              MERCH
-            </h1>
-            <div class="overlay">
-              <div class="text">
-                Buy our stuff and flex on non-physicists
-              </div>
-            </div>
-          </div>
-        </div>
-      </a>
-    </div>
-    <!--===== FOOTER =====-->
-    <footer class="footer">
-      <div id="main" class="container clear-top">
+<!--====== BODY ======-->
+    <main id="content-main" class="flex-grow-1 p-5">
+      <div class="container marketing">
         <hr class="featurette-divider">
-          <p class="pull-right"><a href="#"  style="color:#fff">Back to top</a></p>
-          <p  style="color:#fff">&copy; 2019 UDIP @ UCSB. Webmaster:
-          <a href="webmaster.html" target="_blank" class="btn btn-sm btn-primary">Contact</a></p>
+        <div class="row featurette">
+          <div class="col-md-7">
+            <h2 class="featurette-heading">Contact Us</h2>
+            <p class="lead"><a href="https://groups.google.com/a/physics.ucsb.edu/forum/#!forum/udip/join">Join our mailing list</a> (using your UCSB email), <a href="https://www.facebook.com/UDIPatSB/">Facebook group</a> or email us if you'd like more information.</p>
+
+            <a href="mailto:udip@physics.ucsb.edu" target="_blank" class="btn btn-sm btn-primary">Email Now!</a>
+          </div>
+          <div class="col-md-5">
+            <img class="featurette-image img-responsive" src="images/udip_logo.png" alt="contact">
+          </div>
+        </div>
+        <!--DIVIDER-->
+        <hr class="featurette-divider">
+        <!--UDIP OFFICERS-->
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="panel panel-primary">
+              <div class="panel-heading">
+                <h2>UDIP Officers</h2>
+              </div>
+              <div class="panel-body">
+                <ul class="list">
+                  <!--PRESIDENT-->
+                  <li>Andie Rupprecht - President</li>
+                  <!--VICE PRESIDENT-->
+                  <li>Jacob Howard - Vice President</li>
+                  <!--SECRETARY-->
+                  <li>Mindy Harkness - Secretary</li>
+                  <!--TREASURER-->
+                  <li>Pierre Thibodeaux - Treasurer</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!--UDIP CHAIRS-->
+            <div class="col-sm-4">
+              <div class="panel panel-primary">
+                <div class="panel-heading">
+                  <h2>UDIP Chair Members</h2>
+                </div>
+                <div class="panel-body">
+                  <ul class="list">
+                    <!--TASK MANAGER-->
+                    <li>Annie Chang - Task Manager</li>
+                    <!--MERCHANDISE-->
+                    <li>Natalie LeBaron - Merchandise Coordinator</li>
+                    <!--STUDENT RESOURCE CHAIR-->
+                    <li>Davis Thuillier - Student Resource Chair</li>
+                    <!--TECHNICAL EVENTS COORDINATOR-->
+                    <li>Tyler Grange - Technical Events Coordinator</li>
+                    <!--Weebmaster-->
+                    <li>PK - Webmaster</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          <!--UNDERGRADUATE ADVISOR-->
+          <div class="col-sm-4">
+            <div class="panel panel-primary">
+              <div class="panel-heading">
+                <h2>Undergraduate Advisor</h2>
+              </div>
+              <div class="panel-body">
+                <ul class="list">
+        	       <li>Jean Dill</li>
+                  <a href="mailto:dill@physics.ucsb.edu" target="_blank" class="btn btn-sm btn-primary">Email Now!</a>
+                  <br><a href="http://www.physics.ucsb.edu/education/undergrad/advising-help">Faculty Advisors</a>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+<!--===== FOOTER =====-->
+    <footer class="footer">
+      <div class="container">
+        <div id="wrap">
+          <div id="main" class="container clear-top">
+            <hr class="featurette-divider">
+              <p class="pull-right"><a href="#">Back to top</a></p>
+              <p>&copy; 2019 UDIP @ UCSB. Webmaster:
+              <a href="pkottapalli@ucsb.edu" target="_blank" class="btn btn-sm btn-primary">Contact</a></p>
+          </div>
+        </div>
       </div>
     </footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
   </body>
 </html>
