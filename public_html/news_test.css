@@ -1,0 +1,15 @@
+#content-main {
+  color: #ffffff;
+  font-style: oblique;
+}
+.row-mb-3{
+  background-color: #ffffff;
+  color: black;
+}
+.col-md-4-themed-grid-col{
+ display: inline-block;
+ width: 33%;
+}
+.news1-image{
+  height: 100%;
+}
