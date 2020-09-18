@@ -35,12 +35,13 @@
 		<link rel="stylesheet" href="css/bootstrap.css">
 		<!--dynamic functionality-->
 		<link rel="stylesheet" href="index.css">
+		<link rel='stylesheet' href='resources.scss'>
 		<!-- Bootstrap core JavaScript================================================== -->
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 	</head>
-	<body>
+	<body style = "padding-top:5vw;">
 
 		<!--===== NAVBAR =====-->
 		<nav class="navbar-wrapper">
@@ -87,7 +88,7 @@
 												<ul class="dropdown-menu">
 													<li><a class="dropdown-item" tabindex="-1" href="contact-sheet.html" target="_blank">Climate Tip Line</a></li>
 													<li><a class="dropdown-item" tabindex="-1" href="textbookform.html" target="_blank">PSR Textbooks</a></li>
-													<li><a class="dropdown-item" tabindex="-1" href="#" target="_blank">(Suggestions)</a></li>
+													<li><a class="dropdown-item" tabindex="-1" href="webmaster.html" target="_blank">(Suggestions)</a></li>
 												</ul>
 											</li>
 										</ul>
@@ -125,10 +126,56 @@
 				 </div>
 				</nav>
 		<!--====== BODY ======-->
-		<div>
-			<h1>ABOUT</h1>
-			<p>content</p>
+		<style>
+			.parallax1 {
+  			/* The image used */
+  			background-image: url('images/UDIP_team_2018-2019_(3).jpg');
+
+  			/* Set a specific height */
+  			min-height: 600px;
+
+  			/* Create the parallax scrolling effect */
+  			background-attachment: fixed;
+  			background-position: center;
+  			background-repeat: no-repeat;
+  			background-size: cover;
+				}
+				.parallax2 {
+	  			/* The image used */
+	  			background-image: url('images/Broida_roof_views(2).jpg');
+
+	  			/* Set a specific height */
+	  			min-height: 600px;
+
+	  			/* Create the parallax scrolling effect */
+	  			background-attachment: fixed;
+	  			background-position: center;
+	  			background-repeat: no-repeat;
+	  			background-size: cover;
+					}
+					@media only screen and (max-device-width: 1366px) {
+  				.parallax {
+    						background-attachment: scroll;
+  						}
+						}
+		</style>
+		<div class = "parallax1"></div>
+		<div style = "height:20vw;background-color:white;">
+			<h1 style = "text-align:center; font-size:4vw">~ABOUT US~</h1>
+			<p style = "text-align:center;font-size:2vw">
+			UDIP is a club committed to creating a welcoming environment within the physics department at UCSB.
+			We work with the department and coordinate with faculty, students, and other clubs to put on great events and provide resources.
+			</p>
 		</div>
+		<div class = "parallax2"></div>
+		<div style = "height:20vw;background-color:white;">
+			<h1 style = "text-align:center; font-size:4vw">~ABOUT US~</h1>
+			<p style = "text-align:center;font-size:2vw">
+			UDIP is a club committed to creating a welcoming environment within the physics department at UCSB.
+			We work with the department and coordinate with faculty, students, and other clubs to put on great events and provide resources.
+			</p>
+		</div>
+
 		<!--===== FOOTER =====-->
 		<footer class="footer">
 			<div id="main" class="container clear-top">
