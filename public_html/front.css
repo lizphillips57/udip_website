@@ -1,9 +1,11 @@
-#content-main {
-  background-color: #F4F4F4;
-}
-.col-md-3{
- display: inline-block;
-}
+/* ----- DESC ----- */
+/*
+  front.css
+  for storage of css specific to the index/homepage
+  news cards, event options, embeds
+*/
+
+/* ---- NEWS CARDS ---- */
 .news1-image{
   height: 100%;
 }
@@ -32,11 +34,15 @@
   text-align:left;
   color:#545454;
 }
+
+/* ---- TWITTER TIMELINE EMBED --- */
 .twitter-timeline{
   background-color:#fff;
   border-radius: 10px;
   overflow:auto;
 }
+
+/* ---- GOOGLE CALENDAR EMBED ---- */
 .responsive-iframe-container {
     position: relative;
     padding-bottom: 56.25%;

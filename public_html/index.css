@@ -1,13 +1,42 @@
 body{
-
 }
+/* ----- DESC ----- */
+/*
+  use this file for css necessary for the entire site
+  ex: navbar, footer, etc.
+  front.css is for css specific to the homepage/index
+*/
+
+.text {
+  /* everywhere i assume? */
+  color: white;
+  font-size: 2vw;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.container-fluid {
+  /* only appears in resources.html */
+  /* leave this til we update the resources page */
+  position: relative;
+  width: 100%;
+  display: block;
+}
+
+
+/* -------OLD NAVBAR------- */
+/* these classes are only necessary if the navbar contains a dropdown menu */
+
 .dropdown-menu{
   background-color:  #343B3F;
 }
 .dropdown-submenu {
     position: relative;
 }
-
 .dropdown-submenu>.dropdown-menu {
     top: 0;
     left: 100%;
@@ -17,11 +46,9 @@ body{
     -moz-border-radius: 0 6px 6px;
     border-radius: 0 6px 6px 6px;
 }
-
 .dropdown-submenu:hover>.dropdown-menu {
     display: block;
 }
-
 .dropdown-submenu>a:after {
     display: block;
     content: " ";
@@ -35,15 +62,12 @@ body{
     margin-top: 5px;
     margin-right: -10px;
 }
-
 .dropdown-submenu:hover>a:after {
     border-left-color: #fff;
 }
-
 .dropdown-submenu.pull-left {
     float: none;
 }
-
 .dropdown-submenu.pull-left>.dropdown-menu {
     left: -100%;
     margin-left: 10px;
@@ -54,11 +78,10 @@ body{
 .dropdown-item{
   color: #f8f9fa;
 }
-.container-fluid {
-  position: relative;
-  width: 100%;
-  display: block;
-}
+
+/* -------END OLD NAVBAR ------- */
+/* -------OLD INDEX --------*/
+/* these classes only appear in the index page */
 
 .overlay {
   position: absolute;
@@ -72,28 +95,14 @@ body{
   transition: .5s ease;
   background-color: inherit;
 }
-
 .container-fluid:hover .overlay {
   opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 2vw;
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
 }
 .content-banner{
   text-align: center;
   display: block;
   float: clear;
 }
-
 .content-div{
   position: absolute;
   top: auto;
@@ -103,3 +112,5 @@ body{
   font-size: 3vw;
   align:center;
 }
+
+/* -------- END OLD INDEX -----*/
