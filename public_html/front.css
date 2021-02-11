@@ -13,13 +13,6 @@
 .featurette-divider{
   margin-top:50px;
 }
-H1{
-  font-family: 'IBM Plex Sans',sans-serif;
-  text-align: center;
-}
-H2{
-  font-family: 'IBM Plex Sans',sans-serif;
-}
 
 /* ---- EVENT CARDS ---- */
 /*.card-columns {
