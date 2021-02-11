@@ -1,12 +1,10 @@
-body{
-}
 /* ----- DESC ----- */
 /*
   use this file for css necessary for the entire site
   ex: navbar, footer, etc.
   front.css is for css specific to the homepage/index
 */
-
+/*TEXT felxibility for mobile devices and tablets*/
 .text {
   /* everywhere i assume? */
   color: white;
