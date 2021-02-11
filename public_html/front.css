@@ -17,8 +17,10 @@ H1{
   font-family: 'IBM Plex Sans',sans-serif;
   text-align: center;
 }
-H2{
+h2{
   font-family: 'IBM Plex Sans',sans-serif;
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 /* ---- EVENT CARDS ---- */
@@ -47,6 +49,12 @@ H2{
 .card-header{
   background-color:#ADDA83;
   color:#FFF;
+}
+.card-columns{
+  padding-top:20px;
+  padding-bottom:20px;
+  padding left: 10px;
+  padding-right:10px;
 }
 .headline{
   margin-bottom:15px;
