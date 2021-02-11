@@ -13,6 +13,13 @@
 .featurette-divider{
   margin-top:50px;
 }
+H1{
+  font-family: 'IBM Plex Sans',sans-serif;
+  text-align: center;
+}
+H2{
+  font-family: 'IBM Plex Sans',sans-serif;
+}
 
 /* ---- EVENT CARDS ---- */
 /*.card-columns {
@@ -43,11 +50,20 @@
 }
 .headline{
   margin-bottom:15px;
+  font-family: 'IBM Plex Sans',serif;
+  font-weight: bold;
+}
+.news-date{
+  width:100%;
+  padding-left:15px;
+  padding-right:15px;
+  font-weight: lighter;
 }
 .news-text{
   width:100%;
   padding-left:15px;
   padding-right:15px;
+  text-align:left;
 }
 .news-image{
   height:15vw;
