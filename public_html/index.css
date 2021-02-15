@@ -32,6 +32,7 @@
 }
 .heading{
     font-family: 'IBM Plex Sans',sans-serif;
+    align: center
 }
 H1{ /* page titles */
   font-family: 'IBM Plex Sans',sans-serif;
