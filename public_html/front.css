@@ -10,6 +10,24 @@
   padding: 50px;
   border-radius: 10px;
 }
+
+/* small screen size */
+@media (max-width: 767.98px) {
+  .container{
+    padding: 10px;
+  }
+  .card-columns{
+    column-count: 2;
+  }
+}
+
+/* xs screen size */
+@media (max-width: 576px) {
+  .card-columns{
+    column-count: 1;
+  }
+}
+
 .featurette-divider{
   margin-top:50px;
 }
