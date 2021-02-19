@@ -69,6 +69,7 @@ hr{
   margin-bottom:15px;
   font-family: 'IBM Plex Sans',serif;
   font-weight: 500;
+  margin-top:20px;
 }
 .news-date{
   width:100%;
@@ -81,6 +82,8 @@ hr{
   padding-left:15px;
   padding-right:15px;
   text-align:left;
+  padding-top:15px;
+  padding-bottom:15px;
 }
 .news-image{
   height:15vw;
