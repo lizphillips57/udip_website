@@ -5,6 +5,8 @@
   front.css is for css specific to the homepage/index
 */
 
+/*TEXT felxibility for mobile devices and tablets*/
+
 /* ---- GENERAL ---- */
 .container-fluid {
   /* only appears in resources.html */
@@ -16,7 +18,6 @@
 .featurette-divider{
   margin-top:50px;
 }
-
 
 /* ---- TYPOGRAPHY ---- */
 .text {
