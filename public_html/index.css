@@ -5,8 +5,22 @@
   front.css is for css specific to the homepage/index
 */
 
+/*TEXT felxibility for mobile devices and tablets*/
+
+/* ---- GENERAL ---- */
+.container-fluid {
+  /* only appears in resources.html */
+  /* leave this til we update the resources page */
+  position: relative;
+  width: 100%;
+  display: block;
+}
+.featurette-divider{
+  margin-top:50px;
+}
+
+/* ---- TYPOGRAPHY ---- */
 .text {
-  /* everywhere i assume? */
   color: white;
   font-size: 2vw;
   position: absolute;
@@ -17,14 +31,16 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
-.container-fluid {
-  /* only appears in resources.html */
-  /* leave this til we update the resources page */
-  position: relative;
-  width: 100%;
-  display: block;
+.heading{
+    font-family: 'IBM Plex Sans',sans-serif;
+    align: center
 }
-
+H1{ /* page titles */
+  font-family: 'IBM Plex Sans',sans-serif;
+}
+H2{ /* big categories */
+  font-family: 'IBM Plex Sans',sans-serif;
+}
 
 
 /* -------OLD NAVBAR------- */
