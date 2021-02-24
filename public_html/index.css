@@ -19,6 +19,23 @@
   margin-top:50px;
 }
 
+/* ---- MOBILE SUPPORT ---- */
+/* small screen size */
+@media (max-width: 767.98px) {
+  .container{
+    padding: 10px;
+  }
+  .card-columns{
+    column-count: 2;
+  }
+}
+/* xs screen size */
+@media (max-width: 576px) {
+  .card-columns{
+    column-count: 1;
+  }
+}
+
 /* ---- TYPOGRAPHY ---- */
 .text {
   color: white;
@@ -26,9 +43,6 @@
   position: absolute;
   top: 60%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
   text-align: center;
 }
 .heading{
@@ -41,7 +55,9 @@ H1{ /* page titles */
 H2{ /* big categories */
   font-family: 'IBM Plex Sans',sans-serif;
 }
-
+H3{
+  font-family: 'IBM Plex Sans',sans-serif;
+}
 
 /* -------OLD NAVBAR------- */
 /* these classes are only necessary if the navbar contains a dropdown menu */
