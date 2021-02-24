@@ -21,6 +21,23 @@
   }
 }
 
+H1{
+  font-family: 'IBM Plex Sans',sans-serif;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+h2{
+  font-family: 'IBM Plex Sans',sans-serif;
+  font-weight: 400
+  padding-top:40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+h3{
+  font-family: 'IBM Plex Sans',sans-serif;
+  font-weight: 400;
+}
+
 /* xs screen size */
 @media (max-width: 576px) {
   .card-columns{
@@ -31,7 +48,6 @@
 .featurette-divider{
   margin-top:50px;
 }
-
 /* ---- EVENT CARDS ---- */
 /*.card-columns {
   @include media-breakpoint-only(md){
@@ -59,10 +75,17 @@
   background-color:#ADDA83;
   color:#FFF;
 }
+.card-columns{
+  padding-top:20px;
+  padding-bottom:20px;
+  padding left: 10px;
+  padding-right:10px;
+}
 .headline{
   margin-bottom:15px;
   font-family: 'IBM Plex Sans',serif;
-  font-weight: bold;
+  font-weight: 500;
+  margin-top:20px;
 }
 .news-date{
   width:100%;
@@ -75,6 +98,8 @@
   padding-left:15px;
   padding-right:15px;
   text-align:left;
+  padding-top:15px;
+  padding-bottom:15px;
 }
 .news-image{
   height:15vw;
