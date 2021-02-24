@@ -6,3 +6,15 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.card{
+  border-radius: 0px;
+  border-color: #B2B2B2;
+  width: 20vw;
+}
+a{
+  color: #000
+}
+.card-img-top{
+  height: 12vw;
+  width:100%;
+}

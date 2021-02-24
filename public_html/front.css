@@ -10,19 +10,44 @@
   padding: 50px;
   border-radius: 10px;
 }
-.featurette-divider{
-  margin-top:50px;
+
+/* small screen size */
+@media (max-width: 767.98px) {
+  .container{
+    padding: 10px;
+  }
+  .card-columns{
+    column-count: 2;
+  }
 }
+
 H1{
   font-family: 'IBM Plex Sans',sans-serif;
-  text-align: center;
+  padding-top:50px;
+  padding-bottom:50px;
 }
 h2{
   font-family: 'IBM Plex Sans',sans-serif;
-  padding-top:10px;
-  padding-bottom:10px;
+  font-weight: 400
+  padding-top:40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+h3{
+  font-family: 'IBM Plex Sans',sans-serif;
+  font-weight: 400;
 }
 
+/* xs screen size */
+@media (max-width: 576px) {
+  .card-columns{
+    column-count: 1;
+  }
+}
+
+.featurette-divider{
+  margin-top:50px;
+}
 /* ---- EVENT CARDS ---- */
 /*.card-columns {
   @include media-breakpoint-only(md){
@@ -59,7 +84,8 @@ h2{
 .headline{
   margin-bottom:15px;
   font-family: 'IBM Plex Sans',serif;
-  font-weight: bold;
+  font-weight: 500;
+  margin-top:20px;
 }
 .news-date{
   width:100%;
@@ -71,7 +97,9 @@ h2{
   width:100%;
   padding-left:15px;
   padding-right:15px;
-  text-align:left;
+  text-align:center;
+  padding-top:15px;
+  padding-bottom:15px;
 }
 .news-image{
   height:15vw;
