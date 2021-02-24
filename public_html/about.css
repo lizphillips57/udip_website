@@ -1,0 +1,61 @@
+/* ----- DESC ----- */
+/*
+  about.css
+  for storage of css specific to the about page
+*/
+
+.parallax1 {
+  /* The image used */
+  background-image: url('images/UDIP_team_2018-2019_(3).jpg');
+
+  /* Set a specific height */
+  min-height: 600px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+/*.parallax2 {
+  /* The image used */
+  /*background-image: url('images/Broida_roof_views(2).jpg');
+
+  /* Set a specific height */
+  /*min-height: 600px;
+
+  /* Create the parallax scrolling effect */
+  /*
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  @media only screen and (max-device-width: 1366px) {
+  .parallax {
+        background-attachment: scroll;
+      }
+    } */
+
+.lead{
+  text-align:center;
+}
+H1{
+  text-align:center;
+}
+
+/* Officer Cards */
+.officer-card{
+  text-align:center;
+  border-color:#000;
+  padding:10px;
+}
+
+
+/* Event Cards */
+.event-card{
+  text-align:center;
+  border-color:#000;
+  padding:10px;
+}

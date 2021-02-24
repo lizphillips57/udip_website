@@ -10,9 +10,17 @@
   padding: 50px;
   border-radius: 10px;
 }
-.featurette-divider{
-  margin-top:50px;
+
+/* small screen size */
+@media (max-width: 767.98px) {
+  .container{
+    padding: 10px;
+  }
+  .card-columns{
+    column-count: 2;
+  }
 }
+
 H1{
   font-family: 'IBM Plex Sans',sans-serif;
   padding-top:50px;
@@ -29,8 +37,16 @@ h3{
   font-family: 'IBM Plex Sans',sans-serif;
   font-weight: 400;
 }
-hr{
-  padding-bottom: -10px;
+
+/* xs screen size */
+@media (max-width: 576px) {
+  .card-columns{
+    column-count: 1;
+  }
+}
+
+.featurette-divider{
+  margin-top:50px;
 }
 /* ---- EVENT CARDS ---- */
 /*.card-columns {
