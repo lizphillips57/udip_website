@@ -20,7 +20,7 @@
   border-style:solid;
   border-color:#ADDA83;
   border-width:1px;
-  border-radius: 10px;
+  border-radius:10px;
   display:flex;
   overflow:auto;
   min-height:15vw;
@@ -31,36 +31,19 @@
   background-color:#ADDA83;
   color:#FFF;
 }
-.card-columns{
-  padding-top:20px;
-  padding-bottom:20px;
-  padding left: 10px;
-  padding-right:10px;
-}
 .headline{
-  margin-bottom:15px;
   font-family: 'IBM Plex Sans',serif;
   font-weight: 500;
-  margin-top:20px;
 }
 .news-date{
   width:100%;
-  padding-left:15px;
-  padding-right:15px;
   font-weight: lighter;
 }
 .news-text{
   width:100%;
-  padding-left:15px;
-  padding-right:15px;
   text-align:center;
-  padding-top:15px;
-  padding-bottom:15px;
 }
-.news-image{
-  height:15vw;
-  width:15vw;
-}
+
 
 
 /* ---- TWITTER TIMELINE EMBED --- */
