@@ -1,3 +1,9 @@
+/* ----- DESC ----- */
+/*
+  resource.html specific css
+*/
+
+/* ---- FORMATTING ---- */
 .jump-to-bar{
   background-color: #93B6D9;
   width: 100%;
@@ -6,15 +12,60 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+a{
+  color: #000
+}
+
+/* ---- CARDS ---- */
+.headline{
+  margin-bottom:15px;
+  font-family: 'IBM Plex Sans',serif;
+  font-weight: 500;
+  margin-top:20px;
+}
 .card{
   border-radius: 0px;
   border-color: #B2B2B2;
   width: 20vw;
 }
-a{
-  color: #000
-}
 .card-img-top{
   height: 12vw;
   width:100%;
+}
+.card-columns{
+  padding-top:20px;
+  padding-bottom:20px;
+  padding left: 10px;
+  padding-right:10px;
+}
+.news-date{
+  width:100%;
+  padding-left:15px;
+  padding-right:15px;
+  font-weight: lighter;
+}
+.news-text{
+  width:100%;
+  padding-left:15px;
+  padding-right:15px;
+  text-align:center;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+
+/* ---- TYPOGRAPHY ---- */
+
+H1{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+H2{
+  font-weight: 400
+  padding-top:40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+H3{
+  font-weight: 400;
 }
