@@ -220,11 +220,10 @@
 				<!-- <p class="lead">Spring 2021</p> -->
 
 				<p align="center">
-					<!-- <a class="btn" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Summer 2021</a> -->
 
 					<button class="btn btn-light" type="button" data-toggle="collapse" data-target="#news-summer21" aria-expanded="true" ariacontrols="news-summer21">Summer 2021</button>
 
-					<button class="btn btn-light" type="button" data-toggle="collapse" data-target="#news-spring21" aria-expanded="false" aria-controls="news-spring21">Spring 2021</button>
+					<button class="btn btn-light collapsed" type="button" data-toggle="collapse" data-target="#news-spring21" aria-expanded="false" aria-controls="news-spring21">Spring 2021</button>
 
 					<button class="btn btn-light" type="button" data-toggle="collapse" data-target="#news-winter21" aria-expanded="false" aria-controls="news-winter21">Winter 2021</button>
 
@@ -238,10 +237,10 @@
 				<div class="col-md-8 themed-grid-col">
 
 <!-- ==== NEWS ENTRIES ============================================================ -->
-
+<div id="news-archive">
 	<!-- SUMMER 2021 -->
   <div class="archive-card">
-    <div id="news-summer21" class="collapse show">
+    <div id="news-summer21" class="collapse show" aria-labelledby="news-summer21" data-parent="#news-archive">
 
 			<div class="card news-card">
 			  <div class="card-header"></div>
@@ -262,7 +261,7 @@
 
 	<!-- SPRING 2021 -->
   <div class="archive-card">
-    <div id="news-spring21" class="collapse show">
+    <div id="news-spring21" class="collapse" aria-labelledby="news-spring21" data-parent="#news-archive">
 
 			<div class="card news-card">
 			  <div class="card-header"></div>
@@ -305,7 +304,7 @@
 
 	<!-- WINTER 2021 -->
   <div class="archive-card">
-    <div id="news-winter21" class="collapse border-light">
+    <div id="news-winter21" class="collapse border-light" aria-labelledby="news-winter21" data-parent="#news-archive">
 
 			<div class="card news-card">
 			  <div class="card-header"></div>
@@ -372,7 +371,7 @@
 
 	<!-- FALL 2020 -->
 	<div class="archive-card">
-		<div id="news-fall20" class="collapse">
+		<div id="news-fall20" class="collapse" aria-labelledby="news-fall20" data-parent="#news-archive">
 
 			<div class="card news-card">
 			  <div class="card-header"></div>
@@ -475,6 +474,7 @@
 		</div>
 	</div>
 
+</div>
 </div> <!-- END NEWS -->
 
 
