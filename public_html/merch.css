@@ -1,0 +1,33 @@
+/* ----- DESC ----- */
+/*
+  merch.css
+  for storage of css specific to the merch page
+*/
+
+/* ---- GENERAL FORMATTING ---- */
+.container{ /* dupe from front.css */
+  padding: 50px;
+  border-radius: 10px;
+}
+.featurette-divider{ /* dupe from front.css */
+  margin-top:50px;
+}
+
+/* ---- NEW MERCH CARDS ---- */
+/* small screen size */
+/* .merch-card{
+  padding:10px;
+} */
+.merch-text{
+  color: black;
+  /* -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white; */
+  text-shadow:
+    -1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}
+.card-img-top{
+  padding-top: 10px;
+}
