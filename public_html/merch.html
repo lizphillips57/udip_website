@@ -96,15 +96,15 @@
 
 
 <!--==== CAROUSEL ===========================================================-->
-		<div id="move" class="carousel slide" data-ride="carousel" style="margin-top:65px">
+		<!-- <div id="move" class="carousel slide" data-ride="carousel" style="margin-top:65px"> -->
   <!-- Indicators -->
-		  <ul class="carousel-indicators">
+		  <!-- <ul class="carousel-indicators">
 		    <li data-target="#move" data-slide-to="0" class="active"></li>
 		    <li data-target="#move" data-slide-to="1"></li>
-		  </ul>
+		  </ul> -->
 
   <!-- The slideshow -->
-		  <div class="carousel-inner">
+		  <!-- <div class="carousel-inner">
 				<div class="carousel-item active">
 					<a href="LINK TO NEW MERCH INTEREST FORM" target="_blank" style="color:#fff">
 					<img src="MAKE IMAGE" style="width:100%;height:35vw;">
@@ -135,16 +135,16 @@
 					</div>
 				</div> -->
 
-			</div>
+			</div> -->
 
 	<!-- Left and right controls -->
-		  <a class="carousel-control-prev" href="#move" data-slide="prev">
+		  <!-- <a class="carousel-control-prev" href="#move" data-slide="prev">
 		    <span class="carousel-control-prev-icon"></span>
 		  </a>
 		  <a class="carousel-control-next" href="#move" data-slide="next">
 		    <span class="carousel-control-next-icon"></span>
 		  </a>
-		</div>
+		</div> -->
 
 <!-- ==== TITLE =========================================================== -->
 <!-- Full width, for page title and other important information -->
@@ -174,24 +174,73 @@
 
 				<div class="col-md-8 themed-grid-col">
 
-				<h1 class="heading"><a href="">New merchandise!</a></h1>
+				<h1 class="heading">New merchandise!</h1>
 				<p>This upcoming quarter, we are expanding our UCSB physics merchandise selection. Please click <a href=”LINK-GOES-HERE”>here</a> to access the interest form for the below products. After collecting enough orders, we will close the form and order the new merchandise.</p>
-				<p>We will not be charging you at the time of filling out the interest form, but upon delivery of the new merchandise, so please do not fill it out unless you are certain that you want to buy. If any changes, please contact Natalie LeBaron at nlebaron@ucsb.edu or via Discord. Please note that all prices are estimated and may change in the future.</p>
+				<p>We will not be charging you at the time of filling out the interest form, but upon delivery of the new merchandise, so please do not fill it out unless you are certain that you want to buy. If any changes, please contact Natalie LeBaron at nlebaron@ucsb.edu or via Discord. Please note that designs are not finalized and may change due to production constraints.</p>
 
-				<!-- add banner images of new merch -->
-				<div class="card mb-3 merch-card text-bottom">
-				  <img class="card-img-top" src="images\Merchandise\19469 UDIP Joggers real-1.png" alt="Card image cap">
-				  <div class="card-img-overlay">
-				    <h2 class="card-title merch-text"><b>UCSB Physics Joggers ($)</b></h2>
+				<div class="card text-center">
+				  <div class="card-header">
+				    <ul class="nav nav-tabs card-header-tabs">
+				      <li class="nav-item">
+				        <a class="nav-link active" id="merch-joggers-tab" data-toggle="tab" href="#merch-joggers" role="tab" aria-controls="merch-joggers">Joggers</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" id="merch-mask-tab" data-toggle="tab" href="#merch-mask" role="tab" aria-controls="merch-mask">Face Mask</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" id="merch-ctee-tab" data-toggle="tab" href="#merch-ctee" role="tab" aria-controls="merch-ctee">Conservationist Tee</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" id="merch-sweatshirt-tab" data-toggle="tab" href="#merch-sweatshirt" role="tab" aria-controls="merch-sweatshirt">Zip-up Sweatshirt</a>
+				      </li>
+				      <li class="nav-item">
+				        <a class="nav-link" id="merch-cap-tab" data-toggle="tab" href="#merch-cap" role="tab" aria-controls="merch-cap">Baseball Cap</a>
+				      </li>
+				    </ul>
 				  </div>
-				</div>
+					<div class="tab-content" id="myTabContent">
+					  <div class="tab-pane fade show active" id="merch-joggers" role="tabpanel" aria-labelledby="merch-joggers-tab">
+							<div class="card-body">
+								<img class="card-img-top" src="images\Merchandise\19469 UDIP Joggers real-1.png" alt="UCSB Physics Joggers">
+								<h5 class="card-title">UCSB Physics Joggers</h5>
+								<p class="card-text">Navy blue joggers with screen-printed UCSB Physics logo on one leg.</p>
+							</div>
+						</div>
+					  <div class="tab-pane fade" id="merch-mask" role="tabpanel" aria-labelledby="merch-mask-tab">
+							<div class="card-body">
+								<img class="card-img-top" src="images\Merchandise\mask.png" alt="Physics Face Mask">
+								<h5 class="card-title">UCSB Physics Face Mask</h5>
+								<p class="card-text">Face mask with screen-printed UCSB Physics logo.</p>
+							</div>
+						</div>
+						<div class="tab-pane fade" id="merch-ctee" role="tabpanel" aria-labelledby="merch-ctee-tab">
+							<div class="card-body">
+								<img class="card-img-top" src="images\Merchandise\19471 UDIP Conservationist Tee-1.png" alt="Conservationist Tee">
+								<h5 class="card-title">Conservationist Tee</h5>
+								<p class="card-text">Green teeshirt with screen-printed Conservationist design.</p>
+							</div>
+						</div>
+						<div class="tab-pane fade" id="merch-sweatshirt" role="tabpanel" aria-labelledby="merch-sweatshirt-tab">
+							<div class="card-body">
+								<img class="card-img-top" src="images\Merchandise\UDIP zip fleece-1.png" alt="Physics Zip-up Sweatshirt">
+								<h5 class="card-title">UCSB Physics Zip-up Sweatshirt</h5>
+								<p class="card-text">Navy blue zip-up sweatshirt with screen-printed UCSB Physics logo.</p>
+							</div>
+						</div>
+						<div class="tab-pane fade" id="merch-cap" role="tabpanel" aria-labelledby="merch-cap-tab">
+							<div class="card-body">
+								<img class="card-img-top" src="images\Merchandise\UCSB UDIP - Embroid. hats - Option-1.png" alt="Physics Baseball Cap">
+								<h5 class="card-title">UCSB Physics Baseball Cap</h5>
+								<p class="card-text">Navy blue baseball cap with embroidered UCSB Physics logo.</p>
+							</div>
+						</div>
+					</div>
+				</div>  <!-- end new stock card -->
 
-				<div class="card mb-3 merch-card text-center">
-				  <img class="card-img-top" src="images\Merchandise\19471 UDIP Conservationist Tee-1.png" alt="Card image cap">
-				  <div class="card-img-overlay">
-				    <h2 class="card-title merch-text"><b>Conservationist Tee ($)</b></h2>
-				  </div>
-				</div>
+		<hr class="featurette-divider">
+		<h1 class="heading">UCSB Physics Tees and Sweatshirts</h1>
+			<p>Teeshirts and pull-over sweatshirts with the UCSB Physics logo (see the joggers or zip-up sweatshirt for reference). All logos are large and centered on the front of the shirt. These are currently in stock. UDIP will be tabling throughout the semester for students, professors, and alumni to purchase in person.</p>
+
 
 				</div> <!-- end left column -->
 
@@ -201,8 +250,8 @@
 <!-- ===== RIGHT COLUMN ===== -->
 			<div class="col-md-4 themed-grid-col" style="display:inline-block;">
 			<div class="card merch-card">
-				<h5 style="text-align: center;"> For alumni and others </h5>
-				<p> <a href = 'https://teespring.com/stores/my-store-10181903'>TeeSpring Link</a></p>
+				<!-- <h5 style="text-align: center;"> For alumni and others </h5>
+				<p> <a href = 'https://teespring.com/stores/my-store-10181903'>TeeSpring Link</a></p> -->
 				<h5 style="text-align: center;">Currently Available items (In Stock): </h5>
 				<p>
 					<ul>
