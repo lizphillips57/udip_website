@@ -19,6 +19,10 @@
   margin-top:50px;
 }
 
+#content-main {
+  padding: 3rem;
+}
+
 /* ---- CAROUSEL ---- */
 .carousel-img {
   width: 100%;
@@ -46,8 +50,8 @@
     height: 30vh;
   }
 
-  .container {
-    padding: 0;
+  #content-main {
+    padding: 2rem 0 2rem 0;
   }
 }
 
