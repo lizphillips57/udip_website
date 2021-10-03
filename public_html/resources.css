@@ -104,5 +104,6 @@ h3 {
   .jump-to-bar__sections {
     display: flex;
     flex-flow: column wrap;
+    text-decoration: underline;
   }
 }
