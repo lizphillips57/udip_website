@@ -6,6 +6,7 @@
 
 /* ---- GENERAL FORMATTING ---- */
 .container{ /* dupe from front.css */
+  margin-top: 61px;
   padding: 50px;
   border-radius: 10px;
 }
@@ -34,5 +35,14 @@
 .merch-card{
   margin: 10px;
   padding: 12px;
-  align: center;
+  text-align: center;
+}
+
+/* ---- MEDIA QUERIES ---- */
+/* XS Devices (Phones) */
+@media only screen and (max-width: 600px) {
+  .container {
+    padding: 0;
+    text-align: center;
+  }
 }
