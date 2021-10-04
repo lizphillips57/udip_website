@@ -22,16 +22,16 @@
   color: #2D3427;
 }
 
-a {
-  color: #000
-}
-
 /* ---- CARDS ---- */
 .headline {
   margin-bottom: 15px;
   font-family: 'IBM Plex Sans',serif;
   font-weight: 500;
   margin-top: 20px;
+}
+
+.headline h3 a {
+  color: #000
 }
 
 .card {
