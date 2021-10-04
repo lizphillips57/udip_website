@@ -10,6 +10,7 @@
   padding: 50px;
   border-radius: 10px;
 }
+
 .featurette-divider{
   margin-top:50px;
 }
@@ -47,8 +48,6 @@
   border:none;
 }
 
-
-
 /* ---- TWITTER TIMELINE EMBED --- */
 .twitter-timeline{
   background-color:#fff;
@@ -72,4 +71,12 @@
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+/* ---- MEDIA QUERIES ---- */
+/* XS Devices (Phones) */
+@media only screen and (max-width: 600px) {
+  .container {
+    padding: 0;
+  }
 }

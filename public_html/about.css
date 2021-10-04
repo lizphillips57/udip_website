@@ -55,8 +55,24 @@ H1{
 
 
 /* Event Cards */
-.event-card{
+.event-card {
   text-align:center;
   border-color:#000;
   padding:10px;
+}
+
+/* ---- MEDIA QUERIES ---- */
+/* XS Devices (Phones) */
+@media only screen and (max-width: 600px) {
+  .parallax1 {
+    background-attachment: scroll;
+    margin-top: 65px;
+    background-size: contain;
+    background-position: top;
+    min-height: 20vh;
+  }
+
+  .officer-card {
+    width: 80vw;
+  }
 }
