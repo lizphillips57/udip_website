@@ -1,0 +1,84 @@
+/* ----- DESC ----- */
+/*
+  use this file for css necessary for the entire site
+  ex: navbar, footer, etc.
+  front.css is for css specific to the homepage/index
+*/
+
+/*TEXT felxibility for mobile devices and tablets*/
+
+/* ---- GENERAL ---- */
+.container-fluid {
+  /* only appears in resources.html */
+  /* leave this til we update the resources page */
+  position: relative;
+  width: 100%;
+  display: block;
+}
+.featurette-divider{
+  margin-top:50px;
+}
+
+#content-main {
+  padding: 3rem;
+}
+
+/* ---- CAROUSEL ---- */
+.carousel-img {
+  width: 100%;
+  height: 35vw;
+}
+
+/* ---- MOBILE SUPPORT ---- */
+/* small screen size */
+@media (max-width: 767.98px) {
+  .container{
+    padding: 10px;
+  }
+  .card-columns{
+    column-count: 2;
+  }
+}
+/* xs screen size */
+@media only screen and (max-width: 600px) {
+  .card-columns{
+    column-count: 1;
+  }
+
+  .carousel-img {
+    width: 100%;
+    height: 30vh;
+  }
+
+  #content-main {
+    padding: 2rem 0 2rem 0;
+  }
+}
+
+/* ---- TYPOGRAPHY ---- */
+.text {
+  color: white;
+  font-size: 2vw;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  text-align: center;
+}
+.heading{
+    font-family: 'IBM Plex Sans',sans-serif;
+    text-align:center;
+}
+.lead{
+  text-align:center;
+}
+H1{ /* page titles */
+  font-family: 'IBM Plex Sans',sans-serif;
+  text-align:center;
+}
+H2{ /* big categories */
+  font-family: 'IBM Plex Sans',sans-serif;
+  text-align:center;
+}
+H3{
+  font-family: 'IBM Plex Sans',sans-serif;
+}
