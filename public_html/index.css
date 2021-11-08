@@ -8,6 +8,8 @@
 /*TEXT felxibility for mobile devices and tablets*/
 
 /* ---- GENERAL ---- */
+
+
 .container-fluid {
   /* only appears in resources.html */
   /* leave this til we update the resources page */
@@ -52,6 +54,11 @@
 
   #content-main {
     padding: 2rem 0 2rem 0;
+  }
+
+  .container {
+    padding: 0;
+    text-align: center;
   }
 }
 
