@@ -38,6 +38,14 @@
   text-align: center;
 }
 
+.merch-blurb {
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 0.1rem solid rgba(0, 0, 0, 0.1);
+  background-color: #dae8f7;
+  margin-bottom: 1rem;
+}
+
 /* ---- MEDIA QUERIES ---- */
 /* XS Devices (Phones) */
 @media only screen and (max-width: 600px) {
