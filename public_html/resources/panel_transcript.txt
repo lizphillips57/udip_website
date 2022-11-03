@@ -1,0 +1,613 @@
+Mindy  0:02  
+hello, everybody, and welcome. Thank you all for coming. Um, we are undergraduate diversity inclusion in physics, commonly known as UDIP because it's a lot shorter. So first, before I get started into the panel, I'm just going to introduce our club and what we do. And briefly go through some other clubs and resources within the department at UCSB that y'all might find interesting. I know, if I had been shown all this as a new student, I probably would have found some clubs and resources earlier, which is awesome. So
+
+undergraduate diversity and inclusion in physics, or UDIP is a club committed to creating a welcoming environment within the physics department at UCSB.
+
+We work really closely with the Department and with faculty and students, and we put on great events and provide resources as well as commit to creating systemic positive change in the department.
+
+We take issues with the climate of the party very seriously, and are really committed to leaving the department better place than we found it. And we, I hope, personally, that some of you join us as a club. And this event, this panel is being hosted by UDIP. So
+
+I guess I didn't even introduce myself. Wow. It's been a while since we've added a bit I apologize. I'm Mindy Harkness. I'm actually the president of UDIP. Um, I am a third year physics major here at UCSB. And I will also be on the panel. Um, Pierre Thibodeaux is the treasurer of YouTube. He has also been speaking, Leslie is also here, I believe. And she is our secretary, and then PK is the vice president.
+
+Yes, so that's who we are.
+
+So we've done a variety of things in our tenure as a club, we have done a textbook drive program for the PSR. If you are new, you probably don't know what the PSR is because it doesn't exist right now. But back in the days of things going on in person we have there's a physics study room at Broida, which is the physics building. And we helped textbooks in there. We've done grad undergrad mixers and set up a mentorship program, where graduate students were partnered with undergraduate students to mentor them and help them with things like internship and fellowship applications as well as graduate school applications. We've held discussions about the climate, the department and worked closely with the Department climate task. On this, we've held imposter syndrome panels and workshops. And we will be holding a another imposter syndrome panel through physics 20 at some point this quarter, so keep your eyes out for that if you're in physics, 20, and much more. We've held a variety of physical events in the past. Now obviously, this quarter is a different quarter. But we're going to have a lot of great online events this year. And we're super excited for things to get started.
+
+The probably the best way to get in contact with us is our email list. So if you email udip@physics.ucsb.edu, we can add you to that email list.
+
+Something exciting that you'll probably hear about quite a few times these first few weeks is we have a department department, but a physics run just a student run physics Discord.
+
+And UDIP has its own channel on that Discord. So that's a good way to get in contact with us as well as with other people in the department. We have a slack that I encourage you to join. And we have a website that we update
+
+routinely.
+
+And this slideshow as well as this event will probably be uploaded to the website. So if you want to reference it, you can find it there.
+
+So there's a variety of other stem clubs at UCSB that we work with and have worked with in the past. There's a society of physics students, you can reach out to them I think best through Facebook.
+
+We have Women in Physics. Now, Women in Physics is more of a graduate student led and centered club. But undergrads are always welcome. They're super nice. They also have a web page. oSTEM is out in science, technology, engineering and mathematics. They also have a web page goes into engineering engineers.
+
+LI (Los Ingenieros) also has a page and Society of Women Engineers also has a web page that you can reach out to them on
+
+Once again, this presentation will be on the website, so no need to rush to write anything down. If you want any of this information, you can also private chat me on zoom, and I can just send you the URLs. And we encourage you to ask our panelists about these.
+
+Pierre Thibodeaux  5:18  
+Most of them are represented by our panelists, and
+
+ [i couldnt tell but I was saying something about many identities being represented by clubs and by our panelists] Yes.
+
+Mindy  5:30  
+Yes.
+
+So here are a few resources available for anyone at the university that our members have found really helpful. And they do some really great work, especially right now. So EOP is Educational Opportunity Program,
+
+the ONDAS students center,
+
+there's Office of the ombuds, and the non traditional Student Resource Center. Now all of these resources do a lot of good and it's difficult to explain them in a short amount of time. So I'll leave this up here for a bit. But
+
+these are great things to ask questions about in the panel as well, these I believe so our panelists have used these resources, and we can all provide some more information on that.
+
+And then these resources are more targeted towards scholarships and internships.
+
+There's the UCSB promise Scholars Program, I believe the deadline to apply that is soon. And that's a really great resource, both as a scholarship as well as they have a pretty strong community. The Eureka internship is an important one to mark down on your calendar because that is for first year students. So the application deadline for that, I believe is in November, no, October, November. So if you want to apply to that, get on it. It's super, super great internship.
+
+URCA is the undergraduate research and creative activities office. And they are a great place to go to the talk about research, especially now when things are so topsy turvy with research. And underneath URCA's umbrella is the faculty research assistance program, which is known as FRAP. And they have a directory of a lot of professors who are looking for research help on specific projects. It's a great place to go. And they also have a lot of interdisciplinary research on there, which I think is super cool. And you should all check out.
+
+panel is for new students to be able to ask returning students about their experiences at UCSB, physics, and any advice that we have. We ask for your help and keeping this event and judgment free safe space for your peers ask questions. The point of this panel and it being so student led and not including faculties is so you can ask questions that might be you know, a little vulnerable or uncomfortable. And, you know, chances are if you have a question about something, you are not the only one
+
+You hear that a lot in your first few weeks, but it's true.
+
+We are declined to answer questions about what classes you should take, when. This is because we aren't advisors and everyone's path through the physics department is totally different. We don't want to lead you astray. We can answer questions about, you know, what our favorite classes were and things like that, but nothing that's, you know, actual class advising.
+
+We also recommend against asking a bunch of questions about how to get involved with research. So the ongoing covid-19 pandemic has really changed how research is done at the undergraduate level, especially in the department. So while we could offer some advice based on our experience, chances are that advice is not very helpful right now. We also recommend, as the department recommends as well, that freshmen students not really get involved with research their first year anyway, because this is a year where you'll be adjusting to a lot, and adjusting to going into college while, you know, doing research is not usually advisable. So
+
+yep, so I guess those are pretty much the ground rules about this panel. Once again, for the millionth time, this slideshow will be available on our website as well as we'll probably email it out. So don't worry too much about getting all this information down. But with that, I guess we should jump right into the panel.
+
+All right.
+
+Pierre Thibodeaux  10:00  
+Yeah, so I suppose I will serve as the moderator pro tempore a, um,
+
+in the absence of PK, but, um, so, I would like each of the panelists to maybe
+
+go down the line and introduce themselves,
+
+your name, your year, the type of degree you're getting, and any sort of relevant identities or organizations that you represent. And we'll go
+
+see, I want to say alphabetical order.
+
+So I did not organize you alphabetically. Ah,
+
+let's go a Murphy then Mindy. And then a
+
+Oh, sorry. Let's go for Jorge and then Murphy and then Mindy, and then Kenneth. And then,
+
+Unknown Speaker  11:08  
+uh,
+
+Pierre Thibodeaux  11:14  
+and then Lin.
+
+Jorge  11:18  
+I guess I can start then. Hello, everyone. My name is Jorge
+
+Jimenez, I'm an incoming fourth year majoring in physics. I'm pursuing a BS in physics. So BS stands for Bachelors of Science. In physics there's a BA and a BS as well.
+
+As I mentioned, I'm a 4th year, and I'm also representing Los Ingenieros. I'm actually the CO president of Los Ingenieros this year.
+
+Murphy  11:49  
+I think I was next I'm Murphy Halbert. I use they them pronouns. I am also a fourth year, although I think I'm pursuing a BA. Um, and I am the president of oSTEM, which is our LGBT stem group on campus, so feel free to ask more questions about that.
+
+Mindy  12:14  
+I guess I'm next though I can kind of introduce myself already. Hi, again. I'm Mindy Harkness pronouns she/her. I'm an incoming third year. physics major, also pursuing a BS. I am the president of UDIP.
+
+Kenneth  12:32  
+everyone, my name is Kenneth Lara. I'm a fourth returning fourth year. I'm a transfer student. I am one of the moderators and like creators of the UCSB, physics Discord. So I'll be I will be working closely with UDIP, SPS, and Women in Physics clubs to try to make a site or server that is really closely knit with the community. So look out for that.
+
+And join
+
+Pierre Thibodeaux  13:11  
+is, is Yuzheng still with us? Oh, yes. I'm sorry.
+
+Lin  13:17  
+My name is Lin Yuzheng and i go by Lin. I'm a third year, international student from China and i'm pursuing a BS.
+
+Thanks.
+
+Unknown Speaker  13:31  
+Okay, cool. So, um, I am going to ask a couple of questions to set the tone. And then we will open up the panel to all of your questions. So, um, firstly, how did you all acclimate to the different academic and social climate of college? Yeah.
+
+Pierre Thibodeaux  14:03  
+I will, and will go in that same order as before. And none of you feel pressured to give an answer if you don't think that you have anything particularly..
+
+Jorge  14:13  
+Do you mind repeating the question?
+
+Pierre Thibodeaux  14:15  
+don't feel like answering the question. Yes?
+
+Jorge  14:17  
+Do you mind repeating the question? 
+
+Pierre Thibodeaux  14:18  
+Sorry, how did you acclimate to the different academic and social climate of college and specifically UCSB?
+
+Unknown Speaker  14:28  
+Actually, can someone go first I need to think
+
+Mindy  14:36  
+I guess I can go first real quick. It was definitely different from what I had experienced before. I personally came from a pretty small high school environment and I was excited to jump into UCSB, but I was definitely scared.
+
+Unknown Speaker  14:54  
+Um,
+
+Mindy  14:56  
+in terms of how I acclimate to the academics, I started
+
+Physics 20 series which was very difficult. So it was definitely an experience, you know, learning how to best study for things and balance my time. But
+
+in terms of, you know, the social climate and really helped me with my, you know, academic success, I think the most important thing I did for myself was reach out and join clubs. I joined UDIP my freshman year, I also joined photography club here at UCSB. And I found that joining social organizations as well as UDIP, which is kind of a social, academic, joint, whatever organization was super helpful. And let me form a support group for, you know, this crazy journey that is college. So
+
+Unknown Speaker  15:50  
+I guess I can go next.
+
+Jorge  15:52  
+So for me, when it comes to my academics, it was pretty difficult as I actually didn't come in as a physics major, I actually didn't became a physics major until my second year in college. So I took the one through five series, which is meant for mostly engineers, and academic preparation in the physics five series compared to the 20 series is not the same. So I guess me adapting to physics classes didn't even stop into my third year, and I think hasn't even stop yet. I think I'm still like adapting to classes. So going from the five series into upper division physics, it was, it was just insane. It went from like, algebra to like, really intense math. And the physics went from like, you know, like baby physics of like, you know, ignore air resistance to like, a bunch of like different stuff and difficult stuff. And it was definitely difficult. But one of the things that I would suggest is that in your four years here, or how many years it takes you to graduate, and
+
+don't ever give up, like, physics is going to be hard. But if you put in the time, and you actually work, you're you know, but have to get the grades that you actually want, you will do great, you will learn the things and you can actually succeed in life. So don't worry too much about it. I know the for transfers, incoming transfer and incoming freshmen, it's going to be really difficult that into classes, but it's certainly doable, you can always do it.
+
+Murphy  17:30  
+I can go next, I had a lot of similar experiences to Mindy. And Jorge, um, like, joining clubs, my freshman year really helped a lot. It helped me get a good social...
+
+helped me make friends who were pursuing similar things. And also, it
+
+definitely took me a little bit to get into the swing of classes. And by a little bit I mean, like, two, three years
+
+to learn how to study effectively. But if you can do that sooner than I did, which I'm sure you can, I think that that's
+
+incredibly helpful.
+
+Kenneth  18:17  
+I have a different experience between you guys like I was a transfer so going from semester to quarter was a real big difference and is like a really quick change of pace. Also, like within the year I was starting to... I transfered last year and after a quarter or two, I start at the beginning feeling like okay, now I'm getting the hang of it. And as I was starting get the hang of it, we all go remote and ultimately just changes. So I think most of us up here now have kind of found a way how to deal with remote learning and remote like because there's that mental fatigue that we have as remote remote learning so I think if you also ask us how to keep our like our our fatigue, pushed away and keep going throughout the quarter. I think you'll learn a lot that there's still ways to keep going like don't give up just because everything's remote and you don't have anyone next to you can find a way to keep going.
+
+Lin  19:14  
+For me of my first year was a very different experiences I came from China, it's a very different countries. I spent my first year adapting to the new lifestyle, learning how things work in the United States. And I in terms of in terms of physics, I did.
+
+I didn't struggle much in my
+
+first year physics classes I think
+
+Unknown Speaker  19:45  
+[cut out]
+
+Lin  19:56  
+very different in the United States, but did work hard. And I made a lot of friends in class. And I usually spent a lot of time talking with them about physics and it did help I think so. But I think with this pandemic is hard to make friends, but so utilize resources, like discord, Reddit, Facebook, whatever social media, you can find, just make friends make friends, socialize, it's important.
+
+Pierre Thibodeaux  20:38  
+All right, it seems that we have a question in the chat. Um, Mindy, would you like to answer this one? 
+
+Mindy  20:47  
+I would love to answer this one. Yeah, so UDIP we have we have weekly meetings, Wednesdays at six, except for this Wednesday, because we're doing this.
+
+tried to double down on our mission of improving the department, and been doing a lot of working with the department. We've sent out, you know, surveys about student experiences with remote learning, and then send that on to the chair of the department. And some of those things have been implemented. Um, but we discuss a wide variety of things. And I think what really drew me to use it is that if you want an event to happen, or once I'm going to change the department, you can bring it to UDIP and we'll all work on it together. So it's a really great place to go. If you have any ideas that you're like, Oh my gosh, I really wish this was happening. But I've no idea how to do it myself.
+
+I find that we do a good job of kind of rallying together and solving these sorts of problems together. So yes, Wednesdays at six.
+
+Very fun.
+
+Unknown Speaker  22:00  
+Um, yeah. And we will be emailing out more information about that, you know, we will we will be constantly in the emails, um, and in the discord. Join the discord. Um, so, next question. Um, what is the mistake that you made your freshman quarter? And how would you, I guess, redo that if you could go back and give yourself advice.
+
+Unknown Speaker  22:26  
+That mistake specifically,
+
+Mindy  22:40  
+none of us made any mistakes.
+
+Kenneth  22:44  
+I as a transfer, my first quarter I took I think, four upper division physics courses, which was not the move. I had to drop one, I had to like really tank in one of the the exams because you, you wouldn start to notice after a couple of quarters, most midterms are gonna somewhat align in the same week, or in the same like day, almost like me and Jorge, during winter quarter, we had three midterms on the same day. So you gotta — don't overload your work and figure out when you're going to have what, like, have the date set. So I would say, don't just throw yourself into the pit of like working hard, you know, you need to have that social experienced and have that, Again, like don't mentally fatigue yourself, because that's just going to make your experience just bad. You want to like, have a balance between the two is my
+
+Unknown Speaker  23:34  
+mistake.
+
+Murphy  23:56  
+Well, as Mindy pointed out, I'm obviously perfect. And I've never made any mistakes in my entire life. Um, but I would I would like to echo balance is important. I really struggled my freshman year because I thought that the coping mechanisms that I had come up and studying mechanisms that I've come up with in high school would work as well as they did in college and college is just a very different experience. You're on your own a lot more.
+
+And I did not realize how important it was to go to office hours and ask questions and utilize my friends.
+
+So I would go back and do that again.
+
+Mindy  24:46  
+Yeah, just to kind of re emphasize Murphy was just saying I think office hours are so important and that's such a different thing. Especially for people just coming straight out of high school, you know, you're not used to having to allot time outside of your
+
+Classes just go talk to professo's and it seems like oh my gosh, I already have class with them. I know I felt this I was like already a class with them, what am I gonna do? Um,
+
+it took me quite a few quarters to start going to office hours, I think I was definitely intimidated. And if I could go back in time, I'd say go to office hours just do it, it's fine. There are no you know, stupid questions, you can ask the professor and it's gonna help you a lot.
+
+So, yes, office hours. 
+
+Pierre Thibodeaux  25:26  
+So to that point, what would you say to a student who is maybe worried about coming off as,
+
+well let's just say, dumb in front of a professor or TA, this is for any of you.
+
+Mindy  25:50  
+I think one thing, at least I kept, and still keep having to kind of reassure myself is that I'm not supposed to know things that I'm learning before I've learned them. I'm not you know, you don't go into physics 20 and it's just testing you every time on your prior knowledge. You know, it's, it's trying to teach you things because that's what college is about. So I think just knowing that your professors want you to learn, and that's their expectation, you know, and perhaps something, and I don't know if this is helpful, but it also could be good to, you know, contextualize that, to these professors, they've acquired so much knowledge, and they're super proud of that, usually, that—as much as I know, most physics majors, like talking about physics, imagine spending your whole life working towards it and getting people to ask you questions about something you love. I mean, no, every question will seem, you know, like an opportunity for them to help and, you know, really talk about what they love to do. So
+
+Jorge  26:56  
+I guess for me, I also is I'm kind of shy or didn't want to ask questions during classes, or in office hours, just because I thought, you know, like, maybe everyone knows the answers to this just because, you know, like, I was like I didn't do, I didn't take the same classes as them. I don't have the same prior knowledge. And also, I was kind of shy to ask questions in class or office hours. And I was like, oh you know, they're gonna think this is a dumb question. But just going on with that what everyone said already, you know, I started asking questions, and people actually,—I started realizing that some of the people didn't know the answers to that as well. And you asking the question also, helps out a lot of other people in your classes. So for me, I kind of, you just got to get out of your comfort zone and be able to ask questions. And the same goes for the your social life, you also try to get out of your comfort zone and join clubs, organizations, or anything that you might be interested in. Because always getting out of your comfort zone at first it's gonna feel weird. And you know, that's completely fine. But if you do, it's always gonna be rewarding at the end
+
+Murphy  27:58  
+I would like to emphasize because it was I was going to say, but um, you are almost never The only person with that question. There is always someone else who has the same exact question as you. And usually they're also too nervous to ask the professor
+
+So do it for them. Otherwise, you'll have suffered in silence.
+
+Lin  28:28  
+And I definitely agree that we, we should ask questions, ask as many questions. If you feel aren't comfortable asking questions in lecture, just just write it down. And ask at an office hour or something. One regret I had in my freshman year is that I didn't go to office hours as much I wanted to, just because I was lazy or nervous. Something. Yeah, definitely go to office hours, they're useful.
+
+Unknown Speaker  29:00  
+Next,
+
+Jorge  29:01  
+and also another piece of advice that I would give, also find a study group. Studying by yourself is, you know, it's completely fine. But I mean, studying with other people also helps, just because you might know the answer to this question, or this topic, but then your friend knows the answer to this other topic. So for example, one of my study buddies is here Kenneth like we always study for every class and like we just help each other and support each other whenever we're having a hard time in our class. So find a study group.
+
+Kenneth  29:44  
+Also, shameless plug, you can create study groups on Discord now.
+
+Unknown Speaker  29:53  
+All right. Um, yeah, I want to remind everybody that if you have any questions, I think the easiest way to ask them would
+
+Pierre Thibodeaux  30:00  
+Probably be to dm them to me or to raise their hand, if you put them in the chat, they will get answered. But I might dawdle a bit from when you ask them. Um,
+
+what are you planning to do after you graduate? Um, and this is a question that I would like, all of you to answer.
+
+Jorge  30:31  
+ I can start. Um, so, I guess I guess this is like for me, I ever since I was a kid, I really liked working with my hands. So after graduating I want to work as a as an engineer, which is why another one of the reasons why join Los Ingenieros, just I guess  and You don't have to be an engineer or want to be an engineer in order to join Los Ingenieros.
+
+Actually,Los Ingenieros has provided a lot of opportunities.
+
+It provided a lot of opportunities for me to basically open that door into engineering. Just because for example, we bring like Google, Microsoft, Lockheed Martin, Northrop, Clorox, and nVidia and a bunch of other companies like this, you plan on having like JPL. Intel. And it provides a lot of opportunities for our members to actually get internships or full time offers in those companies. So basically, that's what I wanted to do. And one of the reasons why joined that organization. So I hope to work as a test engineer. I don't know where I haven't gotten a job yet. But I'm currently applying for full time positions as a test engineer. So definitely, that's what I want to do.
+
+And get involved in projects or anything that you can actually do during your time in college. Because that would actually help you get a full time offer by before you actually graduate. So hopefully, I can get an offer before I graduate as engineer, don't know where but hopefully do get an offer.
+
+Mindy  32:12  
+Are we going in the same order? Is it just whoever's brave enough to go next? 
+
+Pierre Thibodeaux  32:17  
+I guess whoever's brave enough to go next. And I also want to interrupt here and say, totally valid answer. They say that you don't know.
+
+Mindy  32:28  
+Thank you. Um, I actually at this point, you know, I, I came into UCSB thinking I wanted to do pure physics research and you know, get my PhD and go into academia. But that has changed. And I know for many people that changes, and that's was probably the most terrifying, one of the most terrifying things has ever happened to me is realizing that I didn't just want to do pure physics. But I actually found that I'm really interested in medical physics, which I think is something that people don't really know about. So currently, My plan is to go to grad school in medical physics, and be a clinical medical physicist, working with radiation therapy. So we will see if you have any questions about medical physics, I'm probably not qualified to answer them, but I can try.
+
+Unknown Speaker  33:19  
+Um,
+
+Mindy  33:20  
+but just to emphasize on that point, and, and just in general, there's so many different things you can do with physics. And I think that's what's so, you know, compelling about physics is that when you look right at your peers, every single person might want to do something different, and, you know, a physics major will be able to get them there. So I think that's really cool.
+
+Yeah, that's
+
+Murphy  33:50  
+I'm actually leaving physics to do software engineering, or some sort of programming. I was fortunate enough to be able to do some internships during my time here, which made me realize that that was what I found to be incredibly interesting. So like Mindy said, I, a physics major got me there and it taught me a whole lot more in the meantime. So I really think that
+
+Lin  34:21  
+um,
+
+Murphy  34:22  
+the physics major was the right decision even though I'm not doing physics when I graduate.
+
+Oh, Pierre just messaged me directly, but I got my internship
+
+through oSTEM and I got to work with Qualcomm for the summer and I haven't gotten the exact details of the job, but I was told I would be offered a job in a month. So
+
+Kenneth  34:53  
+I just want to say that like for anyone that doesn't know what they want to do or that they really have something that they know, they want to
+
+Do nothing is for certain like when I first was transferring or trying to choose major and community college, I was set on becoming a doctor and trying to go to a medical school. And even as I was transferring, I was like, I still want to do that. And after I got ito UCSB, my first year, I was like, maybe that's not the right direction for me. So I started thinking of other things like maybe continue research or do something in a Ph. D program. And then, as I was transferring to I was like, whew, medical physics some fun because that that combines what I previously wanted to do and what I really liked to do. So I was hoping before quarantine and all that I was hoping to start doing more research and reaching out to professors on campus, but that seems to like have diminished. While we're on remote. It's harder to find active research for undergrads So, but still try to look for what you want to do. I'm still searching and
+
+hopefully find it soon.
+
+Lin  36:01  
+Personally, for me, I'm really lucky that I have a very clear goal. Since I like physics, and I love doing research. I currently work in a in a lab at UCSB doing some soft matter physics slash bio physics.
+
+A lot of friends of mine left physics in their second year because they figured that physics wasn't their thing. I think it might be the case for many of you just remember that physics is a really wide subject, and it has a lot of intersections with other science for
+
+other subjects. So
+
+going, as a physics major,
+
+you don't want to be funneled into a very specific thing you should, especially in first year should explore other options in physics or otherwise, just to see where your interest is.
+
+It's very important to explore yourself.
+
+No.
+
+That's my advice.
+
+Jorge  37:18  
+Something I forgot to mention, I'm currently working as a test engineer, Seymour Duncan, a local company here in Santa Barbara. And I also got my internship through Los Ingenieros. So join organizations, they, they always hook you up with the internships or full time positions.
+
+Unknown Speaker  37:45  
+Okay, so this is for anybody to answer, um, how important is your GPA. And
+
+Unknown Speaker  37:56  
+that's it.
+
+Jorge  37:58  
+Um, I can start, so, me, you know, I'm, I work really hard. But that doesn't mean I have the best GPA. I was a, I almost I would say, um, I don't have the best grades. But even then I was still able to get an internship, I was still able to get like scholarships, I was still able to get a bunch of different opportunities. As long as you show that you're actually working hard.
+
+I mean, I don't know about going into like grad school. Maybe that's when grades like really, really important. But since I'm not gonna I'm not going to grad school, I'm just looking for a full time offer after graduating grades are not super important. I mean, I don't mean slack off, but still work hard pass you classes and get the best grades that you can. Because, you know, even having a really good GPA also helps. But it's not the end of the world if you don't have the highest GPA
+
+Murphy  38:59  
+just to kind of tag on to the end of that, because I'm going a similar path and I don't have a whole lot more add. Um, I to be completely frank, I did not do very well in my first two years. And I do not also do not have a great GPA. Um, and I was lucky enough to get these opportunities and if you work hard, and you show that you work hard, um, I think that is what is most important.
+
+Mindy  39:32  
+Yeah, I also, I also did not have a good GPA, my first, like one and a half years here, and
+
+it was really difficult and really demoralizing. And as someone who you know, wanted wants to go to grad school is difficult, but I think, you know, obviously, I haven't applied to grad school yet. So we'll, we'll see. take this with a grain of salt but all of the
+
+grad students I've interacted with, through UDIP. And through the physics department have basically said that, you know, grades, you know, they get you to a certain point. But what really matters, even with grad school is your experience and your passion, and who you are as a person and how hard you want to work. Because, you know, a lot of these grad schools see a bunch of different people with, you know, very similar grades and whatever. But what really sets you apart is you know, your experience and who you are as a person. So that's really important. Don't let your grades take over who you are as a person, because then you'll be sitting down for an interview, and you'll just be kind of this flat person who has really great grades, but not much else. And that's not really what life is about, in my opinion.
+
+[this is where I had to split the video so the time stamps are 40 minutes off]
+
+Mindy  0:00  
+For an interview, and you'll just be kind of this flat person who has really great grades, but not much else. And that's not really what life is about, in my opinion.
+
+Also, what's good to know is that, you know, your GPA can be scary, but it changes a lot, I can change shockingly fast in both directions. So know that if you really are unhappy with your GPA, and you really want to boost it, it's possible.
+
+But once again, just be it be a good person and have a good time. And, you know, grades aren't the be all end all, especially in physics. I mean, it's really, really difficult. And a lot of times, everyone in a class will do pretty much the same on things. And it's just hard.
+
+So don't, I guess my advice is don't really take with a grain of salt when you're talking with people not in physics, about GPA. I know a lot of times people like to brag about their GPA and be like, Oh, my gosh, I have a four oh, I have a 16,000 or whatever. But you know, everyone's experience is different. Everyone's major is different. Just do you and be yourself. That's my corny, little answer.
+
+Lin  1:23  
+Yeah, GPA is important if you want to go to grad school, but it's not me. It's not everything I want to have research experience. taking classes, sometimes you can take easy classes and get a high GPA. But for me, that's not something that I want to do. I'd rather take a hard class and have a lower GPA, but end up learning more than taking an easier class. So, but I think it's important instead experience, it's how much you've learned along the way. And, yeah, that's my advice. Don't pay too much attention on GPA. I, yeah, it is important, you should do well in class. It's not that it's not everything.
+
+Kenneth  2:17  
+I think if you talk to most professors, they would rather see you understand the concepts within the class and get a better grade. Like if you go if you have other grades in the world, that just means you did well in the class. But it doesn't really necessarily mean that you know, all the information in the class you might have, you might have gotten it for like a couple of weeks, and then forgot about it. But that doesn't mean that you know everything because you got that a plus in the class. So it's more of know what you get what you get. And so it's like, try to get as most out of the class, then the grade because the greatness is just one of the symbol on a paper. But what you know, is going to be far more useful than any paper can tell.
+
+Pierre Thibodeaux  3:06  
+All right, so next question. This is a chat question. And then afterwards, I'm going to turn moderator ship over to pk. Um, so Mindy, what do you know about medical physics? What is your experience with metal medical physics specifically?
+
+Mindy  3:25  
+I really like the way you asked that that was really good. So I think my... not to get too personal, but but my going into medical physics was influenced kind of by my own life experience, I am chronically ill, and that's fine that I've dealt with for a very long time. And kind of so happened that adjusting to college when you have chronic illness is really difficult. If you are chronically ill or disabled, utilise the Disabled Students Program (DSP), it helps but it (chronic illness) is not a be all end all. So as I was getting kind of sicker again, my grades were getting worse. And I was like, Oh, well, this sucks completely. I don't want to do pure physics, because it doesn't really matter. You know, whatever how I'm feeling and there's not, I didn't see much empathy, which is not to say there isn't empathy there, but sometimes there isn't. And that's how I kind of stumbled upon medical physics. And I thought it was something that would bring together these different parts of myself. So actually, I was lucky enough this summer, I'm back in my hometown of Reno, Nevada, and I've been interning with a radiation oncologist here in town and his medical physicist. And I totally recommend shadowing a medical physicist or radiation oncologist. I guarantee you wherever you live, there is a medical physicist and a radiation oncologist or a medical physicist in imaging physics, who would love to have you shadow them and I'm working on a few research projects, but it's It's a good way to see if you really like the field and wants to go into it. Um, I guess my take on medical physics, if you're somewhat interested in it, is that I think it's a it's a nice balance between being able to be, you know, intellectually curious and pursue these kind of big physics questions. But also walk away every day and feeling like you're, you know, helping people and making a difference in small ways in big ways. Yeah, so that's, that's that. I, if anyone wants to talk more about what I'm specifically doing my research or anything like that, please reach out to me individually, and we can chat about it. I think it's an option that isn't talked about much in, you know, life after physics major conversations. So
+
+yeah. 
+
+Pierre Thibodeaux  6:05  
+PK, we can't hear you.
+
+Oh, sure. I'll take the next question. Um, so. So, how have you... I guess, specifically, um, in the spring, and maybe those of you who are taking classes this summer (which would be a better indicator for the upcoming fall quarter) How did you connect with your professors during remote learning?
+
+Or I also guess a more general question is how did you survive online learning in general? Did you have any sort of strategies for that?
+
+Kenneth  7:14  
+My classmates, its classmates are everything I think in on online and in person, like classmates will help you endlessly like you will help them and they will help you guys like fitting filling in the gaps almost. So definitely reach out to classmates if you don't know anyone. gotta use classmates.
+
+Mindy  7:37  
+Yeah, I guess I can kind of take the connecting with professors part because I somehow felt more connected to my professors in remote learning than I ever have with in person. And I think that's because remote learning did kind of take down some of the barriers for me of going to office hours. And I started specifically with physics one on one I went to office hours with my TA every single week [inaudible name :( ] was my TA and he was fantastic. But that really made me realize how important office hours was. And I think it can seem weird when it's, you know, over zoom, and you're like, in a Zoom Room with your professor. But the professors really, especially during remote learning, want people to come to their office hours, and it makes them super excited and happy. And I think if you you know, really take the step, especially right now to go to office hours, they're gonna definitely appreciate it and you know, want to connect with you and you know, help you as much as they can. So
+
+Kenneth  8:35  
+we also like to say office hours are really easy to go to nowadays, because you don't need to walk anywhere, or figure out where they're at, you could just click a zoom link, and you're there.
+
+Jorge  8:45  
+One of the things are one of the reasons why I actually never went to office hours, my freshman year, was just because I was lazy. I was like, I don't want to walk all the way down to Broida Hall just to go to office hours. And I was like, What if it's full? And I don't even get to ask my question, you know, and I guess now that it's virtual, it's just like an answer is really easy. Just click an Zoom link and ask questions. If for some reason, there's like 10 people ahead of you asking questions, then you can just, you know, have your camera off And do your work in the background? And then once it's your turn to actually ask a question, you can always ask a question. So definitely take advantage of that.
+
+Kenneth  9:27  
+Also, sometimes if you don't have a question, you still go to office hours, you might find out a question, you didn't know that you're like, Wow, that's a great question. I wish I asked that myself and you find out the answer to it because you're in that office hour.
+
+Lin  9:43  
+I'm sorry, I don't really have anything intelligent to say about this. I definitely hate this whole remote learning experience. It sucks. So but if you can go to office hours go. It's click a link. It's super easy. You don't have to walk.
+
+Mindy  10:05  
+Kind of on that real quick. It's, it definitely does suck remote learning is not anything that any of us want to be doing. But I think what's interesting is that I've noticed that, um, does this been really bad for the professor's too They also really hate it. Sometimes there's more of a kind of walking in our shoes and kind of being empathetic and understanding that things are really tough for everyone. So, you might notice that some of your professors or just a handful, or one are really empathetic and like, "Oh my gosh, this is like, really bad. It's the worst. if you needed like, talk to someone reach out to me." And that's a unique experience right now is that we're all kind of going through this together in different ways. But I don't know of anyone who's having a super stellar time right now. But yeah,
+
+Jorge  11:01  
+I guess one of the things that we do, you know, we usually when it's in person, you have like study groups, you just all go to like one apartment or the library and just study together, but now that it's online. What we do is in the discord, either the physics discord or our personal Discord. Like, for example, me, Kenneth and a couple other friends, will just go on Discord and study together, we talk about the problems we talk about, just physics in general to help each other out. And the way we actually, you know, if you ask a question, and they're like, Oh, they tell you this random equation, and you're like, I just can't visualize it, you know, I'm a visual person, then you can always do like sharing screen and actually write on your screen. So there's ways to get around that, just make sure to use your technology and just use anything on you that you can use. It definitely helps a lot when you study with other people.
+
+Lin  12:00  
+Besides your professors, you can also reach out to TAs, a teaching assistant, an LAs, learning assistant. And Mindy was my LA for physics one on one. And she did a really good job hosting the session when the TA was slacking off.
+
+Mindy  12:22  
+Thank you, I'm honored.
+
+PK  12:28  
+All right, this should be working now.
+
+My name is PK, my pronouns are she her hers. And I'm the moderator for the second half of this. I'm going off of going to office hours and talking to professors and stuff um, you know, everyone says like go to office hours, it's really useful. What's the most useful thing that you get out of office hours, personally? And like, to add on to that, how do you like connecting with your professors? Or how do you go about doing that? Um, within Office Hours and even outside?
+
+Jorge  13:11  
+I think what ... oh, go ahead Murphy,
+
+Murphy  13:15  
+I sort of dodged the last question. So I felt like I should answer this one. Ah, I personally am very bad at thinking of questions, I will have vague concepts that I'm like, Oh, really understand this, but I'm not great at distilling that down into a question. Um, so what is helpful for me is to sort of sit in the back and do work and listen on on what other people are asking. Because they will usually ask, are more thoughtful questions than I could come up with. That really helped me.
+
+Jorge  13:59  
+I think for me, what I get the most out of office hours, sometimes it might not be the physics, it's actually for me, it's the connections with the professors like, for me, going into office hours, let's say let's say for some reason, you have a question and you need to send an email to the professor about, you know, random stuff. If as the professor, you get an email from some like dude named Jorge Jimenez, and you're like, Who's that, you know, but if you actually go to office hours, they they're gonna see your face when they see your name, they're gonna be able to be like, Oh, you know, I know that student. He's taking my class because they have, like, they have like 150 students in one class, if not more. So usually the it's good to make the connection because they're also going to be a little more lenient. Let's say, you know, family stuff came up and you have a homework due tonight at midnight, and you're like, Oh, I can't do it. You send an email to the professor and there will be a lot more lenient because they know that you're actually working hard. You're going to office hours, you know, they see that you're actually trying So I think for me, it's the connection with the professors that are really important.
+
+Mindy  15:09  
+Also to kind of advertise something new for this quarter instead of so when we're in person, there's the mystery, mysterious PSR that I was talking about. And there were PSR fellows who would answer your questions in there. But since that can't exist, this fall quarter now the learning assistants who you will find out what that means they basically help out with section but they can hold office hours now. And learning assistants are usually just more ahead in the series or older students who are helping out with the class. And I think that if you're someone who has questions both about, you know, just the physics and the material, as well as about life at UCSB, and how do we just do things and any advice? You know, it could be a really good place to make kind of mentorship connections. So that's definitely something to look out for, for your classes that have LAs.
+
+PK  16:15  
+awesome. Thank you very much. On the topic of professors. Who, who who have you guys especially connected with and maybe you could talk about why you've connected with these particular professors?
+
+Mindy  16:36  
+To be completely clear, before anyone answers, this is not shade to any professors who aren't mentioned. This is just, you know, there are some really great professors that—
+
+PK  16:55  
+Yeah, absolutely, um, there are just some professors that you gel with and some, um, that, you know, you probably just don't have the same interests. So, yeah. Which professors have you personally found
+
+very friendly.
+
+Jorge  17:23  
+As one of the professors that I kind of had a connection with, and I thought he was really friendly was Professor Koutroulakis. I, so far, I've taken two classes with Professor Koutroulakis. And I'm hoping to take a third class with him, winter quarter physics 127BL. And I think he's just a really cool guy. He wrote me a letter of rec already. So, you know, made that connection. They're really cool. Some of them, you know,
+
+Murphy  18:00  
+I personally
+
+already knew Dr. Carlson outside of Dr. Jean Carlson, from through physics circus, which is something we do in in-person times, um, it's a volunteer thing where you go, and you teach children physics. But I took one physics 101 with her this last quarter, and I really connected with that. And I really connected with the research paper that we wrote, which, if you take it with her, you will have to write a research paper. And it's not your favorite thing in the world. But I personally found that it opened a whole new side of physics to me that I didn't realize was there. And it really helped me connect my physics with my computer science interests. So I, personally really recommend taking that class with her, although I know it's not everybody saying,
+
+Jorge  19:03  
+Yes, I don't want to bring Murphy's paper down. But I had a really hard time. I did learn a lot from it, because you got to do some research. But it was really painful to write. Because it was like 10 pages or something.
+
+Murphy  19:21  
+Don't get me wrong. It was not easy. It was just... fun. At the end of it, when I had it.
+
+Jorge  19:28  
+Oh, yeah. When it's done you like Oh, my paper is beautiful. You know, like it looks so nice, because we read it in latex and you're like, that's so cute.
+
+Mindy  19:42  
+I know personally, a professor who I haven't taken a class with but have kind of connected with outside of classes is Professor Marolf. Who I'm actually his LA this quarter for Phys 20. He used to be the chair of the department and is just a super energetic, nice, sweet guy. And I'm pretty sure that anyone in department and a student department could go up to him and ask him for help or advice, and he would do it. And especially since he's teaching Phys 20 this year, that's definitely something to keep in mind. So, yeah. Yeah, I'm super excited for freshmen to have him because he's a super great dude.
+
+Murphy  20:30  
+Someone in the chat also brought up Blaes. And I would wholeheartedly agree that you should take a class of Blaes. And I'm not legally contracted to say that [Blaes is advisor for oSTEM] I am saying that because  I think he's a wonderful professor, I think he does a great job. Especially with physics 102.
+
+Jorge  20:50  
+I took Blaes where 102 in 104 really good professor, I think he is probably the best professor at teaching that I that I've had so far. Like he's really good. And just be ready to work. Really, really. And I mean, really hard.
+
+PK  21:15  
+Awesome. Um,
+
+Unknown Speaker  21:18  
+someone in the chat also brought up Dr. B(ibilashvili) and Dr. Guruswamy? There are Yes, um, to be clear, this question is not to single out certain professors that are good, and certain professors that are bad. It's to highlight that there are professors in the department that are willing to talk with and interact with students and really pushing to make this undergraduate experience better for everyone. On the topic of communication with professors, kind of loosely. How, how do you go about finding friends, like minded people, friends in like, maybe outside of physics, but maybe stick to within physics? Like how do you form study groups? How do you meet people? How do you maintain those friendships, anything that you want to talk about about peer to peer interaction?
+
+Kenneth  22:16  
+That's an easy one, the Discord. So I don't know if everyone's in there or not, but we just announced, a system where you can just create a voice channel. And then you can change the name to the voicemail or anything you want. So you can just be like, meeting new people today or something. You can maybe attract some people that are like, hey, I want to meet someone today. Or if you're in a class with someone else, and be like, Oh, you want to study together and then just create a group chat there. So yeah, thank you, again, for posting the link again. Yeah, hopefully, more people start using it. And with the quarter starting it becomes useful.
+
+Jorge  22:59  
+It's been pretty useful.
+
+Mindy  23:09  
+Okay, so I know that personally, I have met most of my friends in physics through UDIP. Um, you know, I made friends in classes. And I think that in your cohort, you'll just... just through chatting with people next to you, or in the zoom or in office hours, you'll make friends and form study groups. But I think it's also really helpful to make friends with you know, other physics majors who aren't necessarily in your classes or are older than you and younger than you. I found that really helpful through UDIP. And I know this is supposed to be focused on on physics people, but I think it's really important to have friends outside of physics because I know that especially my freshman year, around like midterms and finals, I would just lock myself in my dorm for like three weeks, it took my non physics friends to be like, what are you doing? This is ridiculous. My physics friends were like, oh, we're doing the same and kind of dragging me out of my dorm and into the world. So I highly recommend making a variety of friends with different interests and different backgrounds. Definitely a great part of the college experience.
+
+Jorge  24:18  
+Is Yeah, I can agree with me in the sense my non stem friends they're like, what are you doing studying on a Friday night, on a Saturday night? You know, like, have a break or at least you know, play some board games or play video games I know you like video games, play video games or something because I would just like study all the time. And my non stem friends would always just be like, you know, like, you also need to relax. Stop some time for yourself. I guess but I guess going with the with the question. The easiest way for me to make friends was actually joining student organizations or clubs. Most of my friends are actually engineers are part of my student organization. But I also have a lot of friends that are not Engineers are STEM majors, which is also super cool just because you get to actually see what everyone's actually learning in college. And you can see the difference about like, you know, they're learning about this stuff we're learning about this. And age is pretty cool how like people can share, and you can learn about other people's stuff that we learn in class.
+
+Lin  25:21  
+I definitely agree with Mindy that it's important to make friends outside outside physics, of making friends is such a personal experience. I think, for me, most of my friends are actually outside physics. We met them in all kinds of places at work, some random corners and campus. And I encourage all of you to explore especially with this extra challenge of being locked at home. I guess it's going to be extra fun, since you can utilize the platforms such as discord, or Reddit. There are my favorites, or Facebook, you know, there are facebook groups you can find. I just I joined the math club yesterday on Facebook. I think it's gonna be interesting. So make use of the Internet.
+
+Kenneth  26:27  
+Yeah, especially if you're a transfer that finishes [GEs] like I did. I came into UCSB basically only needing physics classes. So it was really tough to like try to make friends outside of any physics class. So the best way is clubs and organizations like if you just go to any event, they're going to be friendly, like they want you there. They want to see new people and they want to see everyone collaborating and talking. So join physics, join other discord, oin other clubs that are not a physics related so you can get a broader experience within UCSB.
+
+Jorge  27:00  
+That's what happens when you create the physics discord
+
+Kenneth  27:03  
+It's always on my mind.
+
+Murphy  27:07  
+Not to plug oSTEM, but to plug oSTEM, I made almost all of my friends as a freshman... not all my friends, I made a lot of friends through oSTEM. So join clubs, particularly mine, if you're interested. Um, and I also have found that you meet a lot of people through other people that you know, um, you, there's so much like, oh, let's hang out with my other friend. And then you guys get to connect. And then you have another friend. And so go to as many I know, the events are over tool, I know they'll talk, but just suck it up and go to the virtual events. You don't have to travel. So you don't have an excuse for why you don't want to go to that event at 7pm anymore. Go to those events, talk to people, and just talk to the friends that you are making in your classes and because they'll introduce you to some really cool people as well.
+
+PK  28:15  
+Right, thank you very much. I'm very insightful comment. While we're on the topic of the social life, is it possible to have a social life while in the physics major? Discuss?
+
+Jorge  28:31  
+My guess is probably not now. I'm just kidding. Yeah, you can totally have a social life. It also depends on you as a person, like what do you like to do socially. For me, like, as we know, you support the school, I'm not a party person. And I still have a lot of social life. I like to hang out with my friends, play board games, I like to play video games. So like I would always have friends coming over. But now that everything is virtual, what we do is we play online. So if you play video games, you know, starts and change anything, you can still play with your friends. So you can always have some time and for you distract yourself, I guess, talk with your friends and at the same time, take care of yourself. Because physics is hard. You're going to spend a lot of time studying but also take breaks and make sure to I guess talk to your friends in your classes or other people in the major.
+
+Mindy  29:37  
+Yes, it totally is possible. You will probably hear from a lot of people that it is impossible. And that makes me sad. I think sometimes physics majors have this kind of grind mentality where they don't want to make it you know, they don't want to let down the curtain that they're not spending every single waking minute of their life doing physics. People don't spend every waking minute of their life doing physics. And it is possible to have a social life and I encourage more people to let people know that it is possible to have social life, yes, there are a certain time to be busy. And you won't feel like you'll have a social life. But it's not like you're locked, you know, in your room or in your house all day just doing physics and you can't do anything else. Because that is pretty sad, that make you very sad person. Unless you really love physics so much that you don't want to do anything else, in which case, all the power to you. That's awesome. But for most people, yes, it's possible.
+
+Murphy  30:39  
+Let's say not only is it possible, but please have a social life. Please talk to other people. Everybody gets weird when they go a little bit too long without talking to other people. And it's really hard right now. Other people will help you stay sane and keep track of the days and remind you that there is more to life than just your physics homework due tomorrow. Because after your physics homework is due tomorrow, you will just have another physics homework to do. Please talk to people and make friends. You don't have to do anything crazy like party but like in fact, don't party. But please make friends.
+
+Jorge  31:21  
+I just I can totally say that I relate to Murphy and I think most of us. And if you haven't yet you will relate to Murphy. Every time you turn into homework, you already have another homework coming up. You're never done with homework, even during finals week. Sometimes. I mean, that week, you still have homework to do, or even at the beginning of finals week. So yeah, don't don't stress too much about school and have some fun as well.
+
+PK  31:54  
+Yeah, definitely. possible, encouraged, and very fun to have
+
+friends
+
+and a social life outside of physics.
+
+On that topic, how would you? or How did you make friends with upperclassmen or graduate students? Because you could probably get a little mentorship out of that. So how would you go about doing that?
+
+Kenneth  32:26  
+They're your TA. So ask them questions to just like your professors. They hold office hours, so go and bug them because they know they have the experience. So I would say again, touch your TA would they have a lot more information than you think?
+
+Mindy  32:48  
+Not to just keep plugging UDIP, But UDIP pretty much always has two grad students in attendance. We have grad students who are always the club helping us out. And I think if you ask anyone and you'd have if they feel like they're like friends with the grad students in our club, they would say yes, and the grad students would say the same. So that's a great opportunity to to meet grad students and ask questions outside of class. In terms of upper classmen. I will take over Kenneth's brain and say Discord is a great place to go, as well as clubs because, you know, any club is going to have a really great sampling of people from all years and especially I think the type of upperclassmen who really wants to help out and mentor and give you advice will be found at clubs. So yes, I will say what Pierre is saying [in the chat] Women in Physics is great, and there are undergrads who go to it it's run by grad students who are super nice. And they know a lot about the department and about life. There Great. So yes, Women in Physics
+
+Lin  34:02  
+so in my experience, most grad students in UCSB, physics departments are very friendly, and very helpful. Just reach out to them. I sometimes I ask questions outside class and they respond and so please do that. I won't say their names that will ruin the the treasure hunting experience for you. So just explore.
+
+Murphy  34:37  
+I personally met a lot of upper classmen through clubs like oStem, and women in physics, but also the physics department does something really cool. Where we have this thing called a reading group where they are trying to make Physics slightly more diverse. And so they recommend a someone presents a paper that you've all read before. And then you go and you discuss it. And a lot of the students are there's a lot of faculty in there. And there's a lot of grad students in there. And so that's a really good way to connect with grad students outside of your classes, because obviously, you can talk to LAs and TAs, but sometimes you want to make a different connection.
+
+PK  35:35  
+Yeah, thank you.
+
+Yes, clubs are absolutely a really great way to meet anyone including upperclassmen.
+
+Maybe to switch gears a little bit,
+
+because I do want to touch on this. Let's briefly talk about imposter syndrome. So, imposter syndrome can be defined as, textbook version, collection of a collection of feelings of inadequacy that persist despite evident success. It's basically feeling like you don't belong. There's chronic self doubt. And you feel like you're kind of fooling everyone, you're the employer. I don't know if any of you claim on this. You're the imposter. But you're not the imposter and everyone thinks you're the imposter. But no one thinks you're the imposter. So how do you have you experienced imposter syndrome? And how have you dealt with it? Who can you surround yourself with? Who can you talk to about it? Um, feel free to talk about it?
+
+Jorge  36:38  
+I can start I think, for me, that was a big thing. My freshman year when I come in into UCSB, I'm a first generation student, I'm also Latino. So there's not a Latinos in physics. And I always felt like I was, I was not good enough. I was like, I'm not doing as good as everyone else. And basically, I even got even even it got to a point where I thought of dropping out and going back home. But I'm still here. So just got to push through. And what helped me a lot was actually joining certain organizations. And just like Morphe says, Here I go, again, with the Los Ingenieros. So Los Ingenieros actually provided me with a lot of support, a lot of emotional support, and people going through similar stuff as me. And even with people that when going through stuff like me, we were able to provide like, for example, like programs like we had a mentorship from Carlos Diaz, where would they usually pair you up with third or fourth year mentor who guides you through college and is there to support you answer your questions, and just be a person that that is always there for you. So definitely, that was something that helped me a lot. Just finding a place where it's your family away from home people that you trust people, you like people that you feel welcome. So find that group where you feel welcome. And that will always be a place where you can just go and bet about anything, or just go and feel welcome. And it will actually help you a lot. And I think I haven't actually felt the imposter syndrome in like the last like, two years or a year. Like I think I kind of got over but it's always there. So make sure to find a group that it's always supporting you.
+
+Murphy  38:37  
+imposter syndrome is kind of like the monster under everybody's bed. You think about it a lot. But when you talk about it with other people, it really helps. So, go to things where you can watch successful people talk about imposter syndrome. Talk about your imposter syndrome with your friends. And because a lot of people in physics feel that way. And there's definitely a lot of attitude that you have to be smart to be in physics. And a lot of us I think feel that sometimes we are not smart. But a lot of people feel that way. And you are here for a reason. You had to go through a lot to get into the physics department, they wouldn't have chosen you if they thought you were not capable of doing the work and keeping up. you can.
+
+Kenneth  39:40  
+to go off of that when I first got here as a transfer. I felt like like a I felt like there was gonna be a wave where I'm going to be like, I'm not gonna belong like I have a like experience where I felt that in the future. I was going to think that I shouldn't be here because I was like doing bad or something. But I had to keep reminding myself that like I'm here. went through all the obstacles I had to go through to get to the department. So they chose me for a reason they chose each one of you for a reason. So there's something there that makes this valuable. So we have to keep reminding ourselves, we can we can do that ourselves. Or we can, we can also find groups that that are in a similar position where they can tell you that like, no, you're valuable. So it's just about who you surround yourself with, and your mentality.
+
+[this is where I again had to split the video so no more time stamps because i did this by hand!!!!]
+
+LIN
+For me, it kicked in when I first joined my research lab. I think it had some good reasons because I was the youngest member of my lab, I came in knowing nothing, I questioned myself, whether I was qualified to do this. Because by definition it is a collection of feelings and its hard to make a concrete measurement of feelings, to determine how harmful it is. I guess what's important is to believe that you are qualified to do this and you just focus on the work you need to do, the knowledge you need to learn to understand the things you dont understand. And I guess you can make use of it and push yourself to do harder, to learn more, I think. You can make it motivation. Just make sure the anxiety doesn't consume yourself. You are fully qualified to do what you are doing. You are here for a reason. That's it.
+
+I think sometimes in the physics department... I know why a lot of people have struggled in the physics department, it's so ubiquitous, so many people deal with imposter syndrome. I think pretty much everybody will deal with it at some point in their lives. Its only exacerbated when we dont open up and be vulnerable with eachother. And I think its difficult because in physics yknow you feel like your struggling and you dont get the material and every gets it because they act like they get it. But chances are everyones acting like they get it because theyre scared and theyre vulnerable and they have imposter syndrome. So as scary as it is my biggest advice, as I guess with most things in the physics department is to let down your guard a bit and be vulnerable. Walk out of an exam (you don't walk on zoom, I don't know what the equivalent is so I'll say something else). If you're having a hard time with the homework, or you have a question that is like this is impossible, tell someone that! Be like, "oh my god, this homework is ridiculous" and chances are, they're thinking the same thing but don't want to let their guard down. So I think if we have a culture in the department of be vulnerable with each other, that will benefit all of us. So that is my word on that, I guess.
+
+
+PK 
+Thank you so much everyone for sharing your experiences. I think its very important to talk about this kind of stuff. So, we're going to start wrapping up. So As a last one or two questions. What's the coolest class you've taken at UCSB? It can be GE or Physics Anything
+
+Jorge
+Ok so one class that I really loved was Physic 127AL I know that other physics majors, I hear that they hate that class, that it's time consuming, but I personally love that class. I'm really into electronics, that's why I want to be a test engineer. So definitely, that's a class that I got to learn so much and was pretty fun to me, working on electronics, even though there was times I stayed pretty late debugging my circuits just because I couldnt get it. Definitely a fun class. And (Physics) 104.
+
+Murphy
+I think my favorite class I took, or not my favorite but one of the coolest classes I took was I got to take Film Studies of Horror Movies which was really fun because I got to watch a whole lot of horror movies, and then I got to think more deeply about them. Theres a lot of really neat GEs out there. I know they feel like a drag, I felt like it was a drag too until I found out that you can take really cool classes, you just have to look for them.
+
+Mindy
+Talking about this class is going to make me miss in person life but definitely my favorite class that Ive taken at UCSB was Black Studies 14, which is the history of Jazz. I really love jazz and the professor was incredible. He wrote a book that won the Pullitzer prize, and the national book award, the year we were in his class, which is exciting, and we would go to Rockfire Grill in Isla vista and watch jazz shows that he would put on there. It was a really unique experience and it was a really great brain break from physics and I think whats really cool about UCSB is you'll have the opportunity in all fields to learn from people who are at the top of their fields and are really passionate about what they teach and I think this class is at the epitome of that.
+
+Kenneth
+I can definitely say along with Jorge that physics 127 is going to be a course that most people dont like but right now especially remotely it is frustrating but there is some type of like hallalujah effect like I finally got it to work, It just feels so great that its finally working. It's just a really cool class, but its sad a little bit that its not in person,, but it still works
+
+Lin
+The class I liked was Music 16, which is Listening to Jazz. I'm also a big fan of Jazz and in that class you would just listen to jazz and learn about the history of jazz and we had some light readings and writings and it was an enjoyable experience
+
+PK
+Alright thank you very much to all of our panelists. We will wrap up with a couple of announcements from UDIP, but this has been a very insightful meeting. And all of your minds being picked at has been hopefully very useful for the freshman and transfer students here today. Thank you all and job well done.
+
+Pierre
+Alright is this announcements? I don't think we have that many announcements. It's mostly just that one: we finally got an online merch store up, you'll see that the image behind Kenneth and the shirt Mindy is wearing have the physics logo on it. UDIP is the official people who sell that stuff. We cant sell in person right? So we had to set up an online merch store. The revenue from it goes to helping to plan and execute more coole events for physics students. Also, I believe this Tuesday, we (UDIP) are partnering up with SPS, which is the other large physics pillar club to host a game night. So keep your eyes and ears perked for that. It will be a lot of fun, there will be a lot of games, so keep an eye out for that. If any of the panelists have anything they would like to plug now would be a great time?
+
+Murphy
+OSTEm is actually cohosting with some other orgs, SACNAS (society for the advancement of chicano/hispanics and native americans in science), SASE (Society of asian scientists and engineers), LI (Los Ingenieros), WISE (women in science and engineering), more. We're doing a diversity in stem panel, so specifically talking about being in stem and not being like everybody else in stem, so you should find that on our website (ostem).
+
+Jorge
+Can I make an announcement for Los Ingenieros? We have a bunch of announcements and a bunch of companies coming so if you want to hear all about it come to our first General Body Meeting which is October 15 at 7pm and if you can follow us on instagram @liucsb
+
+PK
+In general, join the discord, and keep an eye on your emails, because that's how you're going to hear about all of these, through emails. So very, very important. All of your resources and information are probably going to come through there, especially online. 
+
+Mindy
+Not to speak for all of the panelists, but if you want to speak to any of us, feel free to reach out through our respective clubs, on the discord, or if you want anyones email you can ask and they might give it to you. As anyone who signed up to do the panel can agree, we're all very interested in helping you and if you want some free friends you have some free friends right here (as opposed to paid for friends)
+
+Pierre
+If you're going to contact someone probably mention that you came from this event though, so they you came from this event and not found their email on google.
+
+MINDy
+I know that everything is super scary right now because not only are you getting your first taste of UCSB but everything is online and not what it is usually but I hope this was helpful and I hope to see some of yall at UDIP meetings and at the meetings for these clubs. Thank you for coming.
+
+PIERRE
+and thank you to all the panelists for paneling.
+
+PK
+Paneling. yeah. Thank you all!
+
+MINDY
+Have a good evening everyone, good luck on your first week of school, It's going to go great. See you all soon, stay safe, stay healthy, stay sane. Join clubs. Go lakers.
+
