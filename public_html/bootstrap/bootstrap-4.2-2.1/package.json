@@ -110,7 +110,7 @@
     "babel-eslint": "^10.0.1",
     "babel-plugin-istanbul": "^5.1.0",
     "broken-link-checker": "^0.7.8",
-    "bundlesize": "^0.15.3",
+    "bundlesize": "^0.18.1",
     "clean-css-cli": "^4.2.1",
     "coveralls": "^3.0.2",
     "cross-env": "^5.2.0",
